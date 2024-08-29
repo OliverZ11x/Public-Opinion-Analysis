@@ -1,3 +1,5 @@
 /模型训练/checkpoint/model_best
 /模型训练/gradio
 /文本清洗/saic_data.csv
+/文本清洗/datasets
+/模型训练/data
