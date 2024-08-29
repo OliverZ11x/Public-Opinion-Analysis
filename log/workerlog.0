@@ -1,203 +1,0 @@
-[2023-04-13 22:24:36,051] [ WARNING] - evaluation_strategy reset to IntervalStrategy.STEPS for do_eval is True. you can also set evaluation_strategy='epoch'.
-[2023-04-13 22:24:36,052] [    INFO] - The default value for the training argument `--report_to` will change in v5 (from all installed integrations to none). In v5, you will need to use `--report_to all` to get the same behavior as now. You should start updating your code and make this info disappear :-).
-[2023-04-13 22:24:36,053] [    INFO] - ============================================================
-[2023-04-13 22:24:36,053] [    INFO] -      Model Configuration Arguments      
-[2023-04-13 22:24:36,053] [    INFO] - paddle commit id              :3fa7a736e32508e797616b6344d97814c37d3ff8
-[2023-04-13 22:24:36,053] [    INFO] - export_model_dir              :./checkpoint/model_best
-[2023-04-13 22:24:36,053] [    INFO] - export_type                   :paddle
-[2023-04-13 22:24:36,053] [    INFO] - model_name_or_path            :utc-base
-[2023-04-13 22:24:36,053] [    INFO] - 
-[2023-04-13 22:24:36,053] [    INFO] - ============================================================
-[2023-04-13 22:24:36,053] [    INFO] -       Data Configuration Arguments      
-[2023-04-13 22:24:36,053] [    INFO] - paddle commit id              :3fa7a736e32508e797616b6344d97814c37d3ff8
-[2023-04-13 22:24:36,053] [    INFO] - dataset_path                  :./data/
-[2023-04-13 22:24:36,053] [    INFO] - dev_file                      :dev.txt
-[2023-04-13 22:24:36,053] [    INFO] - single_label                  :False
-[2023-04-13 22:24:36,054] [    INFO] - threshold                     :0.5
-[2023-04-13 22:24:36,054] [    INFO] - train_file                    :train.txt
-[2023-04-13 22:24:36,054] [    INFO] - 
-[2023-04-13 22:24:36,054] [    INFO] - We are using <class 'paddlenlp.transformers.ernie.tokenizer.ErnieTokenizer'> to load 'utc-base'.
-[2023-04-13 22:24:36,054] [    INFO] - Downloading https://paddlenlp.bj.bcebos.com/models/transformers/utc/utc_base_vocab.txt and saved to /home/aistudio/.paddlenlp/models/utc-base
-[2023-04-13 22:24:36,088] [    INFO] - Downloading utc_base_vocab.txt from https://paddlenlp.bj.bcebos.com/models/transformers/utc/utc_base_vocab.txt
-  0%|          | 0.00/182k [00:00<?, ?B/s]100%|██████████| 182k/182k [00:00<00:00, 31.4MB/s]
-[2023-04-13 22:24:36,202] [    INFO] - tokenizer config file saved in /home/aistudio/.paddlenlp/models/utc-base/tokenizer_config.json
-[2023-04-13 22:24:36,202] [    INFO] - Special tokens file saved in /home/aistudio/.paddlenlp/models/utc-base/special_tokens_map.json
-[2023-04-13 22:24:36,204] [    INFO] - Model config ErnieConfig {
-  "attention_probs_dropout_prob": 0.1,
-  "enable_recompute": false,
-  "fuse": false,
-  "hidden_act": "gelu",
-  "hidden_dropout_prob": 0.1,
-  "hidden_size": 768,
-  "initializer_range": 0.02,
-  "intermediate_size": 3072,
-  "layer_norm_eps": 1e-12,
-  "max_position_embeddings": 2048,
-  "model_type": "ernie",
-  "num_attention_heads": 12,
-  "num_hidden_layers": 12,
-  "pad_token_id": 0,
-  "paddlenlp_version": null,
-  "pool_act": "tanh",
-  "task_id": 0,
-  "task_type_vocab_size": 3,
-  "type_vocab_size": 4,
-  "use_task_id": false,
-  "vocab_size": 39981
-}
-
-[2023-04-13 22:24:36,204] [    INFO] - Configuration saved in /home/aistudio/.paddlenlp/models/utc-base/config.json
-[2023-04-13 22:24:36,205] [    INFO] - Downloading utc-base.pdparams from https://paddlenlp.bj.bcebos.com/models/transformers/utc/utc-base.pdparams
-  0%|          | 0.00/450M [00:00<?, ?B/s]  1%|▏         | 5.71M/450M [00:00<00:07, 59.8MB/s]  3%|▎         | 12.6M/450M [00:00<00:06, 67.3MB/s]  4%|▍         | 19.5M/450M [00:00<00:06, 69.6MB/s]  6%|▌         | 26.4M/450M [00:00<00:06, 70.6MB/s]  7%|▋         | 33.3M/450M [00:00<00:06, 71.1MB/s]  9%|▉         | 40.2M/450M [00:00<00:05, 71.7MB/s] 10%|█         | 47.2M/450M [00:00<00:05, 72.1MB/s] 12%|█▏        | 54.0M/450M [00:00<00:05, 72.1MB/s] 14%|█▎        | 60.9M/450M [00:00<00:05, 70.1MB/s] 15%|█▌        | 67.9M/450M [00:01<00:05, 71.1MB/s] 17%|█▋        | 74.8M/450M [00:01<00:05, 71.6MB/s] 18%|█▊        | 81.8M/450M [00:01<00:05, 72.1MB/s] 20%|█▉        | 88.7M/450M [00:01<00:05, 72.2MB/s] 21%|██        | 95.6M/450M [00:01<00:05, 72.1MB/s] 23%|██▎       | 103M/450M [00:01<00:05, 72.3MB/s]  24%|██▍       | 109M/450M [00:01<00:04, 72.3MB/s] 26%|██▌       | 116M/450M [00:01<00:04, 72.2MB/s] 27%|██▋       | 123M/450M [00:01<00:04, 71.4MB/s] 29%|██▉       | 130M/450M [00:01<00:04, 71.7MB/s] 30%|███       | 137M/450M [00:02<00:04, 72.0MB/s] 32%|███▏      | 144M/450M [00:02<00:04, 71.9MB/s] 33%|███▎      | 151M/450M [00:02<00:04, 71.9MB/s] 35%|███▌      | 158M/450M [00:02<00:04, 71.6MB/s] 37%|███▋      | 165M/450M [00:02<00:04, 71.9MB/s] 38%|███▊      | 171M/450M [00:02<00:04, 71.9MB/s] 40%|███▉      | 178M/450M [00:02<00:03, 72.0MB/s] 41%|████      | 185M/450M [00:02<00:03, 72.2MB/s] 43%|████▎     | 192M/450M [00:02<00:03, 71.5MB/s] 44%|████▍     | 199M/450M [00:02<00:03, 68.7MB/s] 46%|████▌     | 206M/450M [00:03<00:03, 71.3MB/s] 48%|████▊     | 214M/450M [00:03<00:03, 73.9MB/s] 49%|████▉     | 222M/450M [00:03<00:03, 75.9MB/s] 51%|█████     | 229M/450M [00:03<00:02, 77.5MB/s] 53%|█████▎    | 237M/450M [00:03<00:02, 78.5MB/s] 54%|█████▍    | 245M/450M [00:03<00:02, 79.2MB/s] 56%|█████▌    | 253M/450M [00:03<00:02, 79.6MB/s] 58%|█████▊    | 260M/450M [00:03<00:02, 79.9MB/s] 60%|█████▉    | 268M/450M [00:03<00:02, 80.1MB/s] 61%|██████    | 276M/450M [00:03<00:02, 80.5MB/s] 63%|██████▎   | 283M/450M [00:04<00:02, 80.5MB/s] 65%|██████▍   | 291M/450M [00:04<00:02, 80.6MB/s] 66%|██████▋   | 299M/450M [00:04<00:01, 80.5MB/s] 68%|██████▊   | 306M/450M [00:04<00:01, 80.6MB/s] 70%|██████▉   | 314M/450M [00:04<00:01, 80.5MB/s] 71%|███████▏  | 322M/450M [00:04<00:01, 80.7MB/s] 73%|███████▎  | 330M/450M [00:04<00:01, 80.7MB/s] 75%|███████▍  | 337M/450M [00:04<00:01, 80.7MB/s] 77%|███████▋  | 345M/450M [00:04<00:01, 80.0MB/s] 78%|███████▊  | 353M/450M [00:04<00:01, 79.9MB/s] 80%|████████  | 360M/450M [00:05<00:01, 79.7MB/s] 82%|████████▏ | 368M/450M [00:05<00:01, 79.5MB/s] 83%|████████▎ | 375M/450M [00:05<00:00, 79.5MB/s] 85%|████████▌ | 383M/450M [00:05<00:00, 78.6MB/s] 87%|████████▋ | 391M/450M [00:05<00:00, 78.8MB/s] 88%|████████▊ | 398M/450M [00:05<00:00, 79.0MB/s] 90%|█████████ | 406M/450M [00:05<00:00, 79.5MB/s] 92%|█████████▏| 413M/450M [00:05<00:00, 78.6MB/s] 94%|█████████▎| 421M/450M [00:05<00:00, 79.1MB/s] 95%|█████████▌| 429M/450M [00:05<00:00, 79.3MB/s] 97%|█████████▋| 436M/450M [00:06<00:00, 79.6MB/s] 99%|█████████▊| 444M/450M [00:06<00:00, 79.8MB/s]100%|██████████| 450M/450M [00:06<00:00, 75.8MB/s]
-W0413 22:24:44.934134  1332 gpu_resources.cc:61] Please NOTE: device: 0, GPU Compute Capability: 7.0, Driver API Version: 11.2, Runtime API Version: 11.2
-W0413 22:24:44.937090  1332 gpu_resources.cc:91] device: 0, cuDNN Version: 8.2.
-[2023-04-13 22:24:45,825] [    INFO] - All model checkpoint weights were used when initializing UTC.
-
-[2023-04-13 22:24:45,825] [    INFO] - All the weights of UTC were initialized from the model checkpoint at utc-base.
-If your task is similar to the task the model of the checkpoint was trained on, you can already use UTC for predictions without further training.
-[2023-04-13 22:24:45,826] [    INFO] - Assigning ['[O-MASK]'] to the additional_special_tokens key of the tokenizer
-[2023-04-13 22:24:45,828] [ WARNING] - Skip 0 examples.
-[2023-04-13 22:24:45,828] [ WARNING] - Skip 0 examples.
-[2023-04-13 22:24:45,922] [    INFO] - ============================================================
-[2023-04-13 22:24:45,922] [    INFO] -     Training Configuration Arguments    
-[2023-04-13 22:24:45,922] [    INFO] - paddle commit id              :3fa7a736e32508e797616b6344d97814c37d3ff8
-[2023-04-13 22:24:45,922] [    INFO] - _no_sync_in_gradient_accumulation:True
-[2023-04-13 22:24:45,922] [    INFO] - adam_beta1                    :0.9
-[2023-04-13 22:24:45,923] [    INFO] - adam_beta2                    :0.999
-[2023-04-13 22:24:45,923] [    INFO] - adam_epsilon                  :1e-08
-[2023-04-13 22:24:45,923] [    INFO] - alpha_rdrop                   :5.0
-[2023-04-13 22:24:45,923] [    INFO] - alpha_rgl                     :0.5
-[2023-04-13 22:24:45,923] [    INFO] - bf16                          :False
-[2023-04-13 22:24:45,923] [    INFO] - bf16_full_eval                :False
-[2023-04-13 22:24:45,923] [    INFO] - current_device                :gpu:0
-[2023-04-13 22:24:45,923] [    INFO] - dataloader_drop_last          :False
-[2023-04-13 22:24:45,923] [    INFO] - dataloader_num_workers        :0
-[2023-04-13 22:24:45,923] [    INFO] - device                        :gpu
-[2023-04-13 22:24:45,923] [    INFO] - disable_tqdm                  :True
-[2023-04-13 22:24:45,923] [    INFO] - do_eval                       :True
-[2023-04-13 22:24:45,923] [    INFO] - do_export                     :True
-[2023-04-13 22:24:45,923] [    INFO] - do_predict                    :False
-[2023-04-13 22:24:45,924] [    INFO] - do_train                      :True
-[2023-04-13 22:24:45,924] [    INFO] - eval_batch_size               :2
-[2023-04-13 22:24:45,924] [    INFO] - eval_steps                    :10
-[2023-04-13 22:24:45,924] [    INFO] - evaluation_strategy           :IntervalStrategy.STEPS
-[2023-04-13 22:24:45,924] [    INFO] - flatten_param_grads           :False
-[2023-04-13 22:24:45,924] [    INFO] - fp16                          :False
-[2023-04-13 22:24:45,924] [    INFO] - fp16_full_eval                :False
-[2023-04-13 22:24:45,924] [    INFO] - fp16_opt_level                :O1
-[2023-04-13 22:24:45,924] [    INFO] - freeze_dropout                :False
-[2023-04-13 22:24:45,924] [    INFO] - freeze_plm                    :False
-[2023-04-13 22:24:45,924] [    INFO] - gradient_accumulation_steps   :8
-[2023-04-13 22:24:45,924] [    INFO] - greater_is_better             :True
-[2023-04-13 22:24:45,924] [    INFO] - ignore_data_skip              :False
-[2023-04-13 22:24:45,924] [    INFO] - label_names                   :None
-[2023-04-13 22:24:45,924] [    INFO] - lazy_data_processing          :True
-[2023-04-13 22:24:45,924] [    INFO] - learning_rate                 :1e-05
-[2023-04-13 22:24:45,924] [    INFO] - load_best_model_at_end        :True
-[2023-04-13 22:24:45,925] [    INFO] - local_process_index           :0
-[2023-04-13 22:24:45,925] [    INFO] - local_rank                    :0
-[2023-04-13 22:24:45,925] [    INFO] - log_level                     :-1
-[2023-04-13 22:24:45,925] [    INFO] - log_level_replica             :-1
-[2023-04-13 22:24:45,925] [    INFO] - log_on_each_node              :True
-[2023-04-13 22:24:45,925] [    INFO] - logging_dir                   :./checkpoint/model_best/runs/Apr13_22-24-36_jupyter-691158-5951557
-[2023-04-13 22:24:45,925] [    INFO] - logging_first_step            :False
-[2023-04-13 22:24:45,925] [    INFO] - logging_steps                 :10
-[2023-04-13 22:24:45,925] [    INFO] - logging_strategy              :IntervalStrategy.STEPS
-[2023-04-13 22:24:45,925] [    INFO] - lr_scheduler_type             :SchedulerType.LINEAR
-[2023-04-13 22:24:45,925] [    INFO] - max_grad_norm                 :1.0
-[2023-04-13 22:24:45,925] [    INFO] - max_seq_length                :512
-[2023-04-13 22:24:45,925] [    INFO] - max_steps                     :-1
-[2023-04-13 22:24:45,925] [    INFO] - metric_for_best_model         :macro_f1
-[2023-04-13 22:24:45,925] [    INFO] - minimum_eval_times            :None
-[2023-04-13 22:24:45,925] [    INFO] - no_cuda                       :False
-[2023-04-13 22:24:45,925] [    INFO] - num_train_epochs              :20.0
-[2023-04-13 22:24:45,925] [    INFO] - optim                         :OptimizerNames.ADAMW
-[2023-04-13 22:24:45,926] [    INFO] - output_dir                    :./checkpoint/model_best
-[2023-04-13 22:24:45,926] [    INFO] - overwrite_output_dir          :True
-[2023-04-13 22:24:45,926] [    INFO] - past_index                    :-1
-[2023-04-13 22:24:45,926] [    INFO] - per_device_eval_batch_size    :2
-[2023-04-13 22:24:45,926] [    INFO] - per_device_train_batch_size   :2
-[2023-04-13 22:24:45,926] [    INFO] - ppt_adam_beta1                :0.9
-[2023-04-13 22:24:45,926] [    INFO] - ppt_adam_beta2                :0.999
-[2023-04-13 22:24:45,926] [    INFO] - ppt_adam_epsilon              :1e-08
-[2023-04-13 22:24:45,926] [    INFO] - ppt_learning_rate             :0.0001
-[2023-04-13 22:24:45,926] [    INFO] - ppt_weight_decay              :0.0
-[2023-04-13 22:24:45,926] [    INFO] - prediction_loss_only          :False
-[2023-04-13 22:24:45,926] [    INFO] - process_index                 :0
-[2023-04-13 22:24:45,926] [    INFO] - recompute                     :False
-[2023-04-13 22:24:45,926] [    INFO] - remove_unused_columns         :True
-[2023-04-13 22:24:45,926] [    INFO] - report_to                     :['visualdl']
-[2023-04-13 22:24:45,926] [    INFO] - resume_from_checkpoint        :None
-[2023-04-13 22:24:45,926] [    INFO] - run_name                      :./checkpoint/model_best
-[2023-04-13 22:24:45,927] [    INFO] - save_on_each_node             :False
-[2023-04-13 22:24:45,927] [    INFO] - save_plm                      :False
-[2023-04-13 22:24:45,927] [    INFO] - save_steps                    :10
-[2023-04-13 22:24:45,927] [    INFO] - save_strategy                 :IntervalStrategy.STEPS
-[2023-04-13 22:24:45,927] [    INFO] - save_total_limit              :1
-[2023-04-13 22:24:45,927] [    INFO] - scale_loss                    :32768
-[2023-04-13 22:24:45,927] [    INFO] - seed                          :1000
-[2023-04-13 22:24:45,927] [    INFO] - sharding                      :[]
-[2023-04-13 22:24:45,927] [    INFO] - sharding_degree               :-1
-[2023-04-13 22:24:45,927] [    INFO] - should_log                    :True
-[2023-04-13 22:24:45,927] [    INFO] - should_save                   :True
-[2023-04-13 22:24:45,927] [    INFO] - skip_memory_metrics           :True
-[2023-04-13 22:24:45,927] [    INFO] - train_batch_size              :2
-[2023-04-13 22:24:45,927] [    INFO] - use_rdrop                     :False
-[2023-04-13 22:24:45,927] [    INFO] - use_rgl                       :False
-[2023-04-13 22:24:45,927] [    INFO] - warmup_ratio                  :0.0
-[2023-04-13 22:24:45,927] [    INFO] - warmup_steps                  :0
-[2023-04-13 22:24:45,927] [    INFO] - weight_decay                  :0.0
-I0413 22:24:45.928267  1332 tcp_utils.cc:181] The server starts to listen on IP_ANY:47351
-I0413 22:24:45.928439  1332 tcp_utils.cc:130] Successfully connected to 10.156.12.136:47351
-[2023-04-13 22:24:47,240] [    INFO] - world_size                    :4
-[2023-04-13 22:24:47,240] [    INFO] - 
-[2023-04-13 22:24:47,268] [    INFO] - ***** Running training *****
-[2023-04-13 22:24:47,269] [    INFO] -   Num examples = 45
-[2023-04-13 22:24:47,269] [    INFO] -   Num Epochs = 20
-[2023-04-13 22:24:47,269] [    INFO] -   Instantaneous batch size per device = 2
-[2023-04-13 22:24:47,269] [    INFO] -   Total train batch size (w. parallel, distributed & accumulation) = 64
-[2023-04-13 22:24:47,269] [    INFO] -   Gradient Accumulation steps = 8
-[2023-04-13 22:24:47,269] [    INFO] -   Total optimization steps = 20.0
-[2023-04-13 22:24:47,269] [    INFO] -   Total num train samples = 900.0
-[2023-04-13 22:24:47,290] [    INFO] -   Number of trainable parameters = 118026368
-[2023-04-13 22:24:50,556] [    INFO] - loss: 1.45257711, learning_rate: 5e-06, global_step: 10, interval_runtime: 3.2649, interval_samples_per_second: 196.024, interval_steps_per_second: 3.063, epoch: 10.0
-[2023-04-13 22:24:50,557] [    INFO] - ***** Running Evaluation *****
-[2023-04-13 22:24:50,557] [    INFO] -   Num examples = 6
-[2023-04-13 22:24:50,557] [    INFO] -   Total prediction steps = 1
-[2023-04-13 22:24:50,557] [    INFO] -   Pre device batch size = 2
-[2023-04-13 22:24:50,557] [    INFO] -   Total Batch size = 8
-[2023-04-13 22:24:50,585] [    INFO] - eval_loss: 0.5748878717422485, eval_micro_f1: 0.9848484848484849, eval_macro_f1: 0.9504132231404958, eval_runtime: 0.027, eval_samples_per_second: 221.821, eval_steps_per_second: 36.97, epoch: 10.0
-[2023-04-13 22:24:50,585] [    INFO] - Saving model checkpoint to ./checkpoint/model_best/checkpoint-10
-[2023-04-13 22:24:50,585] [    INFO] - Trainer.model is not a `PretrainedModel`, only saving its state dict.
-[2023-04-13 22:24:51,539] [    INFO] - tokenizer config file saved in ./checkpoint/model_best/checkpoint-10/tokenizer_config.json
-[2023-04-13 22:24:51,540] [    INFO] - Special tokens file saved in ./checkpoint/model_best/checkpoint-10/special_tokens_map.json
-[2023-04-13 22:25:01,427] [    INFO] - loss: 0.77275414, learning_rate: 0.0, global_step: 20, interval_runtime: 10.8707, interval_samples_per_second: 58.874, interval_steps_per_second: 0.92, epoch: 20.0
-[2023-04-13 22:25:01,427] [    INFO] - ***** Running Evaluation *****
-[2023-04-13 22:25:01,427] [    INFO] -   Num examples = 6
-[2023-04-13 22:25:01,427] [    INFO] -   Total prediction steps = 1
-[2023-04-13 22:25:01,427] [    INFO] -   Pre device batch size = 2
-[2023-04-13 22:25:01,428] [    INFO] -   Total Batch size = 8
-[2023-04-13 22:25:01,462] [    INFO] - eval_loss: 0.47322455048561096, eval_micro_f1: 0.9848484848484849, eval_macro_f1: 0.9504132231404958, eval_runtime: 0.0342, eval_samples_per_second: 175.331, eval_steps_per_second: 29.222, epoch: 20.0
-[2023-04-13 22:25:01,462] [    INFO] - Saving model checkpoint to ./checkpoint/model_best/checkpoint-20
-[2023-04-13 22:25:01,462] [    INFO] - Trainer.model is not a `PretrainedModel`, only saving its state dict.
-[2023-04-13 22:25:02,364] [    INFO] - tokenizer config file saved in ./checkpoint/model_best/checkpoint-20/tokenizer_config.json
-[2023-04-13 22:25:02,365] [    INFO] - Special tokens file saved in ./checkpoint/model_best/checkpoint-20/special_tokens_map.json
-[2023-04-13 22:25:04,255] [    INFO] - Deleting older checkpoint [checkpoint/model_best/checkpoint-40] due to args.save_total_limit
-[2023-04-13 22:25:04,257] [    INFO] - 
-Training completed. 
-
-[2023-04-13 22:25:04,257] [    INFO] - Loading best model from ./checkpoint/model_best/checkpoint-10 (score: 0.9504132231404958).
-[2023-04-13 22:25:04,910] [    INFO] - train_runtime: 17.6188, train_samples_per_second: 51.082, train_steps_per_second: 1.135, train_loss: 1.112665629386902, epoch: 20.0
-[2023-04-13 22:25:04,935] [    INFO] - Saving model checkpoint to ./checkpoint/model_best
-[2023-04-13 22:25:04,936] [    INFO] - Trainer.model is not a `PretrainedModel`, only saving its state dict.
-[2023-04-13 22:25:08,770] [    INFO] - tokenizer config file saved in ./checkpoint/model_best/tokenizer_config.json
-[2023-04-13 22:25:08,770] [    INFO] - Special tokens file saved in ./checkpoint/model_best/special_tokens_map.json
-[2023-04-13 22:25:08,773] [    INFO] - ***** train metrics *****
-[2023-04-13 22:25:08,773] [    INFO] -   epoch                    =       20.0
-[2023-04-13 22:25:08,773] [    INFO] -   train_loss               =     1.1127
-[2023-04-13 22:25:08,773] [    INFO] -   train_runtime            = 0:00:17.61
-[2023-04-13 22:25:08,773] [    INFO] -   train_samples_per_second =     51.082
-[2023-04-13 22:25:08,773] [    INFO] -   train_steps_per_second   =      1.135
-[2023-04-13 22:25:08,778] [    INFO] - Exporting inference model to ./checkpoint/model_best/model
-[2023-04-13 22:25:21,603] [    INFO] - Inference model exported.
-I0413 22:25:22.212386  1600 tcp_store.cc:257] receive shutdown event and so quit from MasterDaemon run loop

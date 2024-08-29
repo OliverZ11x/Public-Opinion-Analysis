@@ -1,2 +1,3 @@
-/checkpoint/model_best
-/gradio
+/模型训练/checkpoint/model_best
+/模型训练/gradio
+/文本清洗/saic_data.csv

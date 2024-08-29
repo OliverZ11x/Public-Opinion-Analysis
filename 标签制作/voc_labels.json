@@ -1,0 +1,3494 @@
+[
+    {
+        "text": "产品##安全性##安全架构##车身材质",
+        "suffix_key": "",
+        "background_color": "#FFDEAD",
+        "text_color": "#F8F8FF"
+    },
+    {
+        "text": "产品##安全性##安全架构##车身刚性",
+        "suffix_key": "",
+        "background_color": "#2E8B57",
+        "text_color": "#FFFACD"
+    },
+    {
+        "text": "产品##安全性##安全架构##车身结构",
+        "suffix_key": "",
+        "background_color": "#EE82EE",
+        "text_color": "#FDF5E6"
+    },
+    {
+        "text": "产品##安全性##安全架构##防撞梁/保险杠",
+        "suffix_key": "",
+        "background_color": "#ADFF2F",
+        "text_color": "#FFE4E1"
+    },
+    {
+        "text": "产品##安全性##安全架构##碰撞等级",
+        "suffix_key": "",
+        "background_color": "#FF7F50",
+        "text_color": "#7FFFD4"
+    },
+    {
+        "text": "产品##安全性##安全配置##ABS防抱死",
+        "suffix_key": "",
+        "background_color": "#00BFFF",
+        "text_color": "#483D8B"
+    },
+    {
+        "text": "产品##安全性##安全配置##安全带",
+        "suffix_key": "",
+        "background_color": "#F5F5DC",
+        "text_color": "#FDF5E6"
+    },
+    {
+        "text": "产品##安全性##安全配置##安全气囊",
+        "suffix_key": "",
+        "background_color": "#A52A2A",
+        "text_color": "#9932CC"
+    },
+    {
+        "text": "产品##安全性##安全配置##安全性整体评价",
+        "suffix_key": "",
+        "background_color": "#008B8B",
+        "text_color": "#808000"
+    },
+    {
+        "text": "产品##安全性##安全配置##并线辅助",
+        "suffix_key": "",
+        "background_color": "#20B2AA",
+        "text_color": "#40E0D0"
+    },
+    {
+        "text": "产品##安全性##安全配置##车道偏离预警系统",
+        "suffix_key": "",
+        "background_color": "#AFEEEE",
+        "text_color": "#000080"
+    },
+    {
+        "text": "产品##安全性##安全配置##车身稳定控制(ESC/ESP/DSC等)",
+        "suffix_key": "",
+        "background_color": "#BA55D3",
+        "text_color": "#FF0000"
+    },
+    {
+        "text": "产品##安全性##安全配置##车身主动控制系统(ABC)",
+        "suffix_key": "",
+        "background_color": "#808000",
+        "text_color": "#7FFF00"
+    },
+    {
+        "text": "产品##安全性##安全配置##车外声光提醒",
+        "suffix_key": "",
+        "background_color": "#DA70D6",
+        "text_color": "#EEE8AA"
+    },
+    {
+        "text": "产品##安全性##安全配置##车载系统安全卫士",
+        "suffix_key": "",
+        "background_color": "#BA55D3",
+        "text_color": "#00FFFF"
+    },
+    {
+        "text": "产品##安全性##安全配置##儿童安全座椅接口",
+        "suffix_key": "",
+        "background_color": "#C0C0C0",
+        "text_color": "#8B008B"
+    },
+    {
+        "text": "产品##安全性##安全配置##辅助驾驶系统",
+        "suffix_key": "",
+        "background_color": "#F0FFFF",
+        "text_color": "#FF7F50"
+    },
+    {
+        "text": "产品##安全性##安全配置##活体遗留监测提醒",
+        "suffix_key": "",
+        "background_color": "#66CDAA",
+        "text_color": "#FAFAD2"
+    },
+    {
+        "text": "产品##安全性##安全配置##紧急救援呼叫",
+        "suffix_key": "",
+        "background_color": "#A52A2A",
+        "text_color": "#4B0082"
+    },
+    {
+        "text": "产品##安全性##安全配置##内置行车记录仪",
+        "suffix_key": "",
+        "background_color": "#B0E0E6",
+        "text_color": "#FF7F50"
+    },
+    {
+        "text": "产品##安全性##安全配置##疲劳驾驶提醒",
+        "suffix_key": "",
+        "background_color": "#FFEBCD",
+        "text_color": "#66CDAA"
+    },
+    {
+        "text": "产品##安全性##安全配置##牵引力控制(ASR/TCS/TRC等)",
+        "suffix_key": "",
+        "background_color": "#32CD32",
+        "text_color": "#DDA0DD"
+    },
+    {
+        "text": "产品##安全性##安全配置##前/后排头部气囊(气帘)",
+        "suffix_key": "",
+        "background_color": "#FFA07A",
+        "text_color": "#663399"
+    },
+    {
+        "text": "产品##安全性##安全配置##入侵碰撞报警",
+        "suffix_key": "",
+        "background_color": "#FFB6C1",
+        "text_color": "#FF1493"
+    },
+    {
+        "text": "产品##安全性##安全配置##刹车灯",
+        "suffix_key": "",
+        "background_color": "#9370DB",
+        "text_color": "#F0FFF0"
+    },
+    {
+        "text": "产品##安全性##安全配置##胎压监测装置",
+        "suffix_key": "",
+        "background_color": "#8B4513",
+        "text_color": "#FF8C00"
+    },
+    {
+        "text": "产品##安全性##安全配置##弯道制动控制(CBC)",
+        "suffix_key": "",
+        "background_color": "#F0FFFF",
+        "text_color": "#6A5ACD"
+    },
+    {
+        "text": "产品##安全性##安全配置##膝部气囊",
+        "suffix_key": "",
+        "background_color": "#228B22",
+        "text_color": "#800000"
+    },
+    {
+        "text": "产品##安全性##安全配置##制动力分配(EBD/CBC等)",
+        "suffix_key": "",
+        "background_color": "#4B0082",
+        "text_color": "#87CEEB"
+    },
+    {
+        "text": "产品##安全性##安全配置##主/副驾驶座安全气囊",
+        "suffix_key": "",
+        "background_color": "#F0FFFF",
+        "text_color": "#FFE4E1"
+    },
+    {
+        "text": "产品##安全性##安全配置##主动刹车/主动安全系统",
+        "suffix_key": "",
+        "background_color": "#7FFFD4",
+        "text_color": "#778899"
+    },
+    {
+        "text": "产品##安全性##安全配置##自适应巡航",
+        "suffix_key": "",
+        "background_color": "#CD853F",
+        "text_color": "#6B8E23"
+    },
+    {
+        "text": "产品##操控##操控性感受##操控性整体评价",
+        "suffix_key": "",
+        "background_color": "#FFA07A",
+        "text_color": "#FF1493"
+    },
+    {
+        "text": "产品##操控##操控性感受##过弯稳定性/侧倾",
+        "suffix_key": "",
+        "background_color": "#8B4513",
+        "text_color": "#483D8B"
+    },
+    {
+        "text": "产品##操控##操控性感受##弯道表现",
+        "suffix_key": "",
+        "background_color": "#DEB887",
+        "text_color": "#F0FFF0"
+    },
+    {
+        "text": "产品##操控##操控性感受##行驶稳定性",
+        "suffix_key": "",
+        "background_color": "#D3D3D3",
+        "text_color": "#ADD8E6"
+    },
+    {
+        "text": "产品##操控##操控性感受##行驶指向性/循迹性",
+        "suffix_key": "",
+        "background_color": "#0000FF",
+        "text_color": "#FFA07A"
+    },
+    {
+        "text": "产品##操控##操控性感受##行驶中的路感",
+        "suffix_key": "",
+        "background_color": "#FF8C00",
+        "text_color": "#66CDAA"
+    },
+    {
+        "text": "产品##操控##操控性感受##行驶中轮胎抓地感",
+        "suffix_key": "",
+        "background_color": "#FF69B4",
+        "text_color": "#66CDAA"
+    },
+    {
+        "text": "产品##操控##操作便利性##后备厢操作便利性",
+        "suffix_key": "",
+        "background_color": "#C71585",
+        "text_color": "#FFFF00"
+    },
+    {
+        "text": "产品##操控##操作便利性##中控台操作便利性",
+        "suffix_key": "",
+        "background_color": "#483D8B",
+        "text_color": "#556B2F"
+    },
+    {
+        "text": "产品##操控##驾驶模式##ECO模式",
+        "suffix_key": "",
+        "background_color": "#FF1493",
+        "text_color": "#20B2AA"
+    },
+    {
+        "text": "产品##操控##驾驶模式##沙地",
+        "suffix_key": "",
+        "background_color": "#F8F8FF",
+        "text_color": "#F5DEB3"
+    },
+    {
+        "text": "产品##操控##驾驶模式##省电模式",
+        "suffix_key": "",
+        "background_color": "#8B4513",
+        "text_color": "#98FB98"
+    },
+    {
+        "text": "产品##操控##驾驶模式##舒适模式",
+        "suffix_key": "",
+        "background_color": "#00FF00",
+        "text_color": "#FDF5E6"
+    },
+    {
+        "text": "产品##操控##驾驶模式##雪地",
+        "suffix_key": "",
+        "background_color": "#1E90FF",
+        "text_color": "#FFA07A"
+    },
+    {
+        "text": "产品##操控##驾驶模式##运动模式",
+        "suffix_key": "",
+        "background_color": "#FF0000",
+        "text_color": "#FF7F50"
+    },
+    {
+        "text": "产品##操控##驾驶模式##自定义",
+        "suffix_key": "",
+        "background_color": "#FFDAB9",
+        "text_color": "#FF4500"
+    },
+    {
+        "text": "产品##操控##其他操控##陡坡缓降",
+        "suffix_key": "",
+        "background_color": "#CD5C5C",
+        "text_color": "#B0C4DE"
+    },
+    {
+        "text": "产品##操控##其他操控##后桥限滑差速器/差速锁",
+        "suffix_key": "",
+        "background_color": "#9932CC",
+        "text_color": "#778899"
+    },
+    {
+        "text": "产品##操控##其他操控##可变转向比",
+        "suffix_key": "",
+        "background_color": "#FFF8DC",
+        "text_color": "#FFEFD5"
+    },
+    {
+        "text": "产品##操控##其他操控##刹车辅助(EBA/BAS/BA等)",
+        "suffix_key": "",
+        "background_color": "#008000",
+        "text_color": "#EE82EE"
+    },
+    {
+        "text": "产品##操控##其他操控##上坡辅助系统(HAC)",
+        "suffix_key": "",
+        "background_color": "#008000",
+        "text_color": "#A52A2A"
+    },
+    {
+        "text": "产品##操控##其他操控##遥控驾驶系统",
+        "suffix_key": "",
+        "background_color": "#FAF0E6",
+        "text_color": "#FFFAF0"
+    },
+    {
+        "text": "产品##操控##其他操控##夜视系统",
+        "suffix_key": "",
+        "background_color": "#ADD8E6",
+        "text_color": "#8B0000"
+    },
+    {
+        "text": "产品##操控##其他操控##整体主动转向系统",
+        "suffix_key": "",
+        "background_color": "#7CFC00",
+        "text_color": "#DDA0DD"
+    },
+    {
+        "text": "产品##操控##通过性##接近角",
+        "suffix_key": "",
+        "background_color": "#7FFFD4",
+        "text_color": "#D2B48C"
+    },
+    {
+        "text": "产品##操控##通过性##离去角",
+        "suffix_key": "",
+        "background_color": "#808000",
+        "text_color": "#4B0082"
+    },
+    {
+        "text": "产品##操控##通过性##其他通过性评价",
+        "suffix_key": "",
+        "background_color": "#F5F5F5",
+        "text_color": "#FFEBCD"
+    },
+    {
+        "text": "产品##操控##通过性##通过性整体评价",
+        "suffix_key": "",
+        "background_color": "#FF69B4",
+        "text_color": "#48D1CC"
+    },
+    {
+        "text": "产品##操控##通过性##最大爬坡度",
+        "suffix_key": "",
+        "background_color": "#8B008B",
+        "text_color": "#4B0082"
+    },
+    {
+        "text": "产品##操控##通过性##最大涉水深度",
+        "suffix_key": "",
+        "background_color": "#DEB887",
+        "text_color": "#BC8F8F"
+    },
+    {
+        "text": "产品##操控##通过性##最小离地间隙",
+        "suffix_key": "",
+        "background_color": "#FFDAB9",
+        "text_color": "#FA8072"
+    },
+    {
+        "text": "产品##操控##制动##其他制动评价",
+        "suffix_key": "",
+        "background_color": "#DCDCDC",
+        "text_color": "#7CFC00"
+    },
+    {
+        "text": "产品##操控##制动##刹车灵敏性",
+        "suffix_key": "",
+        "background_color": "#9ACD32",
+        "text_color": "#A0522D"
+    },
+    {
+        "text": "产品##操控##制动##刹车稳定性",
+        "suffix_key": "",
+        "background_color": "#9370DB",
+        "text_color": "#008000"
+    },
+    {
+        "text": "产品##操控##制动##刹车整体评价",
+        "suffix_key": "",
+        "background_color": "#90EE90",
+        "text_color": "#FFF5EE"
+    },
+    {
+        "text": "产品##操控##制动##踏板整体评价",
+        "suffix_key": "",
+        "background_color": "#808080",
+        "text_color": "#F5F5F5"
+    },
+    {
+        "text": "产品##操控##制动##制动踏板",
+        "suffix_key": "",
+        "background_color": "#D3D3D3",
+        "text_color": "#1E90FF"
+    },
+    {
+        "text": "产品##操控##制动##驻车制动",
+        "suffix_key": "",
+        "background_color": "#000000",
+        "text_color": "#FFFFE0"
+    },
+    {
+        "text": "产品##操控##转向系统##方向盘操作感受",
+        "suffix_key": "",
+        "background_color": "#4682B4",
+        "text_color": "#D3D3D3"
+    },
+    {
+        "text": "产品##操控##转向系统##方向盘转向助力",
+        "suffix_key": "",
+        "background_color": "#556B2F",
+        "text_color": "#DAA520"
+    },
+    {
+        "text": "产品##操控##转向系统##其他转向系统评价",
+        "suffix_key": "",
+        "background_color": "#DC143C",
+        "text_color": "#800000"
+    },
+    {
+        "text": "产品##操控##转向系统##转弯半径",
+        "suffix_key": "",
+        "background_color": "#EE82EE",
+        "text_color": "#006400"
+    },
+    {
+        "text": "产品##操控##转向系统##转弯系统整体评价",
+        "suffix_key": "",
+        "background_color": "#FF7F50",
+        "text_color": "#DB7093"
+    },
+    {
+        "text": "产品##操控##转向系统##转向指向性",
+        "suffix_key": "",
+        "background_color": "#7CFC00",
+        "text_color": "#66CDAA"
+    },
+    {
+        "text": "产品##动力##动力性感受##百公里加速表现",
+        "suffix_key": "",
+        "background_color": "#FA8072",
+        "text_color": "#808000"
+    },
+    {
+        "text": "产品##动力##动力性感受##超车加速性能",
+        "suffix_key": "",
+        "background_color": "#FFA07A",
+        "text_color": "#006400"
+    },
+    {
+        "text": "产品##动力##动力性感受##纯电起步",
+        "suffix_key": "",
+        "background_color": "#E0FFFF",
+        "text_color": "#FF69B4"
+    },
+    {
+        "text": "产品##动力##动力性感受##电动机提速感受",
+        "suffix_key": "",
+        "background_color": "#EEE8AA",
+        "text_color": "#FFFAF0"
+    },
+    {
+        "text": "产品##动力##动力性感受##电机介入感受",
+        "suffix_key": "",
+        "background_color": "#FFF5EE",
+        "text_color": "#DEB887"
+    },
+    {
+        "text": "产品##动力##动力性感受##电瓶电路",
+        "suffix_key": "",
+        "background_color": "#8B0000",
+        "text_color": "#FFF8DC"
+    },
+    {
+        "text": "产品##动力##动力性感受##动力性整体评价",
+        "suffix_key": "",
+        "background_color": "#FF7F50",
+        "text_color": "#708090"
+    },
+    {
+        "text": "产品##动力##动力性感受##空调开启时动力性能",
+        "suffix_key": "",
+        "background_color": "#66CDAA",
+        "text_color": "#CD853F"
+    },
+    {
+        "text": "产品##动力##动力性感受##起步加速性能",
+        "suffix_key": "",
+        "background_color": "#4B0082",
+        "text_color": "#FFDEAD"
+    },
+    {
+        "text": "产品##动力##动力性感受##上坡动力表现",
+        "suffix_key": "",
+        "background_color": "#8FBC8F",
+        "text_color": "#FFEBCD"
+    },
+    {
+        "text": "产品##动力##动力性感受##推背感",
+        "suffix_key": "",
+        "background_color": "#800000",
+        "text_color": "#E0FFFF"
+    },
+    {
+        "text": "产品##动力##动力性感受##油电切换",
+        "suffix_key": "",
+        "background_color": "#000080",
+        "text_color": "#7CFC00"
+    },
+    {
+        "text": "产品##动力##动力性感受##油门响应速度",
+        "suffix_key": "",
+        "background_color": "#FFF5EE",
+        "text_color": "#DEB887"
+    },
+    {
+        "text": "产品##动力##发动机结构##传动系统/传动轴",
+        "suffix_key": "",
+        "background_color": "#9370DB",
+        "text_color": "#A9A9A9"
+    },
+    {
+        "text": "产品##动力##发动机结构##发动机舱",
+        "suffix_key": "",
+        "background_color": "#006400",
+        "text_color": "#BC8F8F"
+    },
+    {
+        "text": "产品##动力##发动机结构##发动机结构整体评价",
+        "suffix_key": "",
+        "background_color": "#708090",
+        "text_color": "#B22222"
+    },
+    {
+        "text": "产品##动力##发动机结构##冷却系统",
+        "suffix_key": "",
+        "background_color": "#D2B48C",
+        "text_color": "#F08080"
+    },
+    {
+        "text": "产品##动力##发动机结构##其他发动机结构评价",
+        "suffix_key": "",
+        "background_color": "#4682B4",
+        "text_color": "#90EE90"
+    },
+    {
+        "text": "产品##动力##发动机结构##起动系统",
+        "suffix_key": "",
+        "background_color": "#0000CD",
+        "text_color": "#008B8B"
+    },
+    {
+        "text": "产品##动力##驱动##后驱",
+        "suffix_key": "",
+        "background_color": "#000080",
+        "text_color": "#F0E68C"
+    },
+    {
+        "text": "产品##动力##驱动##其他驱动评价",
+        "suffix_key": "",
+        "background_color": "#C71585",
+        "text_color": "#1E90FF"
+    },
+    {
+        "text": "产品##动力##驱动##前驱",
+        "suffix_key": "",
+        "background_color": "#FF69B4",
+        "text_color": "#A9A9A9"
+    },
+    {
+        "text": "产品##动力##驱动##驱动方式",
+        "suffix_key": "",
+        "background_color": "#006400",
+        "text_color": "#00008B"
+    },
+    {
+        "text": "产品##动力##驱动##驱动整体评价",
+        "suffix_key": "",
+        "background_color": "#483D8B",
+        "text_color": "#008B8B"
+    },
+    {
+        "text": "产品##动力##驱动##四驱",
+        "suffix_key": "",
+        "background_color": "#3CB371",
+        "text_color": "#9ACD32"
+    },
+    {
+        "text": "产品##空间##车内储物空间##杯架",
+        "suffix_key": "",
+        "background_color": "#CD5C5C",
+        "text_color": "#9ACD32"
+    },
+    {
+        "text": "产品##空间##车内储物空间##车门储物格",
+        "suffix_key": "",
+        "background_color": "#FFFFF0",
+        "text_color": "#3CB371"
+    },
+    {
+        "text": "产品##空间##车内储物空间##储物格",
+        "suffix_key": "",
+        "background_color": "#00BFFF",
+        "text_color": "#1E90FF"
+    },
+    {
+        "text": "产品##空间##车内储物空间##储物空间整体评价",
+        "suffix_key": "",
+        "background_color": "#F4A460",
+        "text_color": "#1E90FF"
+    },
+    {
+        "text": "产品##空间##车内储物空间##扶手箱",
+        "suffix_key": "",
+        "background_color": "#D8BFD8",
+        "text_color": "#8A2BE2"
+    },
+    {
+        "text": "产品##空间##车内储物空间##前排储物空间",
+        "suffix_key": "",
+        "background_color": "#66CDAA",
+        "text_color": "#A52A2A"
+    },
+    {
+        "text": "产品##空间##车内储物空间##手套箱",
+        "suffix_key": "",
+        "background_color": "#556B2F",
+        "text_color": "#9932CC"
+    },
+    {
+        "text": "产品##空间##车内储物空间##眼镜盒",
+        "suffix_key": "",
+        "background_color": "#008080",
+        "text_color": "#FF69B4"
+    },
+    {
+        "text": "产品##空间##车内储物空间##中控储物格",
+        "suffix_key": "",
+        "background_color": "#F0F8FF",
+        "text_color": "#FF0000"
+    },
+    {
+        "text": "产品##空间##乘坐空间##乘坐空间整体评价",
+        "suffix_key": "",
+        "background_color": "#DC143C",
+        "text_color": "#8B0000"
+    },
+    {
+        "text": "产品##空间##乘坐空间##第三排空间",
+        "suffix_key": "",
+        "background_color": "#FFE4E1",
+        "text_color": "#48D1CC"
+    },
+    {
+        "text": "产品##空间##乘坐空间##后排/第二排空间",
+        "suffix_key": "",
+        "background_color": "#EEE8AA",
+        "text_color": "#4682B4"
+    },
+    {
+        "text": "产品##空间##乘坐空间##后排/第二排头部空间",
+        "suffix_key": "",
+        "background_color": "#FFF0F5",
+        "text_color": "#FFA07A"
+    },
+    {
+        "text": "产品##空间##乘坐空间##后排/第二排腿部空间",
+        "suffix_key": "",
+        "background_color": "#F0E68C",
+        "text_color": "#E6E6FA"
+    },
+    {
+        "text": "产品##空间##乘坐空间##驾驶舱空间",
+        "suffix_key": "",
+        "background_color": "#FFFFE0",
+        "text_color": "#ADFF2F"
+    },
+    {
+        "text": "产品##空间##乘坐空间##前排空间",
+        "suffix_key": "",
+        "background_color": "#6B8E23",
+        "text_color": "#A9A9A9"
+    },
+    {
+        "text": "产品##空间##乘坐空间##前排头部空间",
+        "suffix_key": "",
+        "background_color": "#FFDAB9",
+        "text_color": "#FAF0E6"
+    },
+    {
+        "text": "产品##空间##乘坐空间##前排腿部空间",
+        "suffix_key": "",
+        "background_color": "#DCDCDC",
+        "text_color": "#F0F8FF"
+    },
+    {
+        "text": "产品##空间##乘坐空间##头部空间评价",
+        "suffix_key": "",
+        "background_color": "#40E0D0",
+        "text_color": "#556B2F"
+    },
+    {
+        "text": "产品##空间##乘坐空间##腿部空间评价",
+        "suffix_key": "",
+        "background_color": "#FAEBD7",
+        "text_color": "#20B2AA"
+    },
+    {
+        "text": "产品##空间##行李厢空间##其他行李厢空间评价",
+        "suffix_key": "",
+        "background_color": "#808000",
+        "text_color": "#00FF00"
+    },
+    {
+        "text": "产品##空间##行李厢空间##行李厢空间整体评价",
+        "suffix_key": "",
+        "background_color": "#00FF7F",
+        "text_color": "#FFB6C1"
+    },
+    {
+        "text": "产品##内饰##按键/旋钮##按键/旋钮布局",
+        "suffix_key": "",
+        "background_color": "#DCDCDC",
+        "text_color": "#AFEEEE"
+    },
+    {
+        "text": "产品##内饰##按键/旋钮##按键/旋钮材质",
+        "suffix_key": "",
+        "background_color": "#FFB6C1",
+        "text_color": "#FAEBD7"
+    },
+    {
+        "text": "产品##内饰##按键/旋钮##按键/旋钮操作便利性",
+        "suffix_key": "",
+        "background_color": "#32CD32",
+        "text_color": "#00BFFF"
+    },
+    {
+        "text": "产品##内饰##按键/旋钮##按键/旋钮故障",
+        "suffix_key": "",
+        "background_color": "#FA8072",
+        "text_color": "#00FA9A"
+    },
+    {
+        "text": "产品##内饰##按键/旋钮##按键/旋钮造型设计",
+        "suffix_key": "",
+        "background_color": "#8B008B",
+        "text_color": "#D2691E"
+    },
+    {
+        "text": "产品##内饰##按键/旋钮##按键/旋钮整体评价",
+        "suffix_key": "",
+        "background_color": "#778899",
+        "text_color": "#FFF8DC"
+    },
+    {
+        "text": "产品##内饰##按键/旋钮##按键/旋钮做工",
+        "suffix_key": "",
+        "background_color": "#F0FFFF",
+        "text_color": "#ADD8E6"
+    },
+    {
+        "text": "产品##内饰##按键/旋钮##其他按键/旋钮评价",
+        "suffix_key": "",
+        "background_color": "#FF69B4",
+        "text_color": "#9ACD32"
+    },
+    {
+        "text": "产品##内饰##车内灯##车内灯整体评价",
+        "suffix_key": "",
+        "background_color": "#F0F8FF",
+        "text_color": "#FFF5EE"
+    },
+    {
+        "text": "产品##内饰##车内灯##氛围灯",
+        "suffix_key": "",
+        "background_color": "#808080",
+        "text_color": "#8A2BE2"
+    },
+    {
+        "text": "产品##内饰##车内灯##化妆灯",
+        "suffix_key": "",
+        "background_color": "#D2B48C",
+        "text_color": "#66CDAA"
+    },
+    {
+        "text": "产品##内饰##车内灯##其他车内灯评价",
+        "suffix_key": "",
+        "background_color": "#87CEEB",
+        "text_color": "#D8BFD8"
+    },
+    {
+        "text": "产品##内饰##车内灯##迎宾灯",
+        "suffix_key": "",
+        "background_color": "#00FF00",
+        "text_color": "#FFDEAD"
+    },
+    {
+        "text": "产品##内饰##车内灯##阅读灯",
+        "suffix_key": "",
+        "background_color": "#D2B48C",
+        "text_color": "#DB7093"
+    },
+    {
+        "text": "产品##内饰##方向盘##多功能方向盘",
+        "suffix_key": "",
+        "background_color": "#8FBC8F",
+        "text_color": "#FF69B4"
+    },
+    {
+        "text": "产品##内饰##方向盘##方向盘调节",
+        "suffix_key": "",
+        "background_color": "#FF00FF",
+        "text_color": "#228B22"
+    },
+    {
+        "text": "产品##内饰##方向盘##方向盘换挡",
+        "suffix_key": "",
+        "background_color": "#2F4F4F",
+        "text_color": "#808080"
+    },
+    {
+        "text": "产品##内饰##方向盘##方向盘记忆",
+        "suffix_key": "",
+        "background_color": "#FFFFFF",
+        "text_color": "#4B0082"
+    },
+    {
+        "text": "产品##内饰##方向盘##方向盘加热",
+        "suffix_key": "",
+        "background_color": "#00FF00",
+        "text_color": "#800000"
+    },
+    {
+        "text": "产品##内饰##方向盘##方向盘手感/材质",
+        "suffix_key": "",
+        "background_color": "#9370DB",
+        "text_color": "#F5DEB3"
+    },
+    {
+        "text": "产品##内饰##方向盘##方向盘造型设计",
+        "suffix_key": "",
+        "background_color": "#00CED1",
+        "text_color": "#F8F8FF"
+    },
+    {
+        "text": "产品##内饰##方向盘##方向盘整体评价",
+        "suffix_key": "",
+        "background_color": "#008080",
+        "text_color": "#FAFAD2"
+    },
+    {
+        "text": "产品##内饰##方向盘##方向盘做工",
+        "suffix_key": "",
+        "background_color": "#32CD32",
+        "text_color": "#808000"
+    },
+    {
+        "text": "产品##内饰##方向盘##其他方向盘评价",
+        "suffix_key": "",
+        "background_color": "#00FFFF",
+        "text_color": "#FFE4C4"
+    },
+    {
+        "text": "产品##内饰##内饰整体##内饰/车内气味",
+        "suffix_key": "",
+        "background_color": "#A52A2A",
+        "text_color": "#F0FFFF"
+    },
+    {
+        "text": "产品##内饰##内饰整体##内饰材质",
+        "suffix_key": "",
+        "background_color": "#00FF00",
+        "text_color": "#BC8F8F"
+    },
+    {
+        "text": "产品##内饰##内饰整体##内饰颜色",
+        "suffix_key": "",
+        "background_color": "#663399",
+        "text_color": "#778899"
+    },
+    {
+        "text": "产品##内饰##内饰整体##内饰造型设计",
+        "suffix_key": "",
+        "background_color": "#FFEBCD",
+        "text_color": "#B0C4DE"
+    },
+    {
+        "text": "产品##内饰##内饰整体##内饰整体评价",
+        "suffix_key": "",
+        "background_color": "#E0FFFF",
+        "text_color": "#00FF7F"
+    },
+    {
+        "text": "产品##内饰##内饰整体##内饰做工",
+        "suffix_key": "",
+        "background_color": "#F0FFFF",
+        "text_color": "#FF69B4"
+    },
+    {
+        "text": "产品##内饰##其他内饰##车内后视镜",
+        "suffix_key": "",
+        "background_color": "#F8F8FF",
+        "text_color": "#9932CC"
+    },
+    {
+        "text": "产品##内饰##其他内饰##车钥匙",
+        "suffix_key": "",
+        "background_color": "#B22222",
+        "text_color": "#5F9EA0"
+    },
+    {
+        "text": "产品##内饰##其他内饰##车载冰箱",
+        "suffix_key": "",
+        "background_color": "#66CDAA",
+        "text_color": "#8B008B"
+    },
+    {
+        "text": "产品##内饰##其他内饰##挂钩",
+        "suffix_key": "",
+        "background_color": "#00BFFF",
+        "text_color": "#AFEEEE"
+    },
+    {
+        "text": "产品##内饰##其他内饰##脚垫",
+        "suffix_key": "",
+        "background_color": "#FF4500",
+        "text_color": "#7FFF00"
+    },
+    {
+        "text": "产品##内饰##其他内饰##汽车喇叭",
+        "suffix_key": "",
+        "background_color": "#FFFACD",
+        "text_color": "#556B2F"
+    },
+    {
+        "text": "产品##内饰##其他内饰##腿托",
+        "suffix_key": "",
+        "background_color": "#0000FF",
+        "text_color": "#DCDCDC"
+    },
+    {
+        "text": "产品##内饰##其他内饰##烟灰缸",
+        "suffix_key": "",
+        "background_color": "#8B008B",
+        "text_color": "#A0522D"
+    },
+    {
+        "text": "产品##内饰##其他内饰##遮阳板",
+        "suffix_key": "",
+        "background_color": "#ADD8E6",
+        "text_color": "#FFA07A"
+    },
+    {
+        "text": "产品##内饰##其他内饰##遮阳帘",
+        "suffix_key": "",
+        "background_color": "#000080",
+        "text_color": "#696969"
+    },
+    {
+        "text": "产品##内饰##其他内饰##坐垫",
+        "suffix_key": "",
+        "background_color": "#FFEBCD",
+        "text_color": "#B22222"
+    },
+    {
+        "text": "产品##内饰##饰板/饰条##饰板/饰条材质",
+        "suffix_key": "",
+        "background_color": "#FF4500",
+        "text_color": "#FFEFD5"
+    },
+    {
+        "text": "产品##内饰##饰板/饰条##饰板/饰条造型设计",
+        "suffix_key": "",
+        "background_color": "#BC8F8F",
+        "text_color": "#C71585"
+    },
+    {
+        "text": "产品##内饰##饰板/饰条##饰板/饰条整体评价",
+        "suffix_key": "",
+        "background_color": "#FFFACD",
+        "text_color": "#2E8B57"
+    },
+    {
+        "text": "产品##配置##其他配置##220V/230V电源",
+        "suffix_key": "",
+        "background_color": "#EEE8AA",
+        "text_color": "#8B008B"
+    },
+    {
+        "text": "产品##配置##车载互联配置##USB接口",
+        "suffix_key": "",
+        "background_color": "#FF0000",
+        "text_color": "#F0FFF0"
+    },
+    {
+        "text": "产品##配置##车载互联配置##车联网",
+        "suffix_key": "",
+        "background_color": "#00CED1",
+        "text_color": "#CD853F"
+    },
+    {
+        "text": "产品##配置##车载互联配置##车载电话",
+        "suffix_key": "",
+        "background_color": "#00FFFF",
+        "text_color": "#FFA500"
+    },
+    {
+        "text": "产品##配置##车载互联配置##定位互动服务",
+        "suffix_key": "",
+        "background_color": "#FF00FF",
+        "text_color": "#800080"
+    },
+    {
+        "text": "产品##配置##车载互联配置##蓝牙功能",
+        "suffix_key": "",
+        "background_color": "#FFE4C4",
+        "text_color": "#FDF5E6"
+    },
+    {
+        "text": "产品##配置##车载互联配置##其他通信系统评价",
+        "suffix_key": "",
+        "background_color": "#1E90FF",
+        "text_color": "#DAA520"
+    },
+    {
+        "text": "产品##配置##车载互联配置##手机互联/映射",
+        "suffix_key": "",
+        "background_color": "#008000",
+        "text_color": "#696969"
+    },
+    {
+        "text": "产品##配置##车载互联配置##通信系统整体评价",
+        "suffix_key": "",
+        "background_color": "#FAEBD7",
+        "text_color": "#D2691E"
+    },
+    {
+        "text": "产品##配置##车载互联配置##外接音源接口",
+        "suffix_key": "",
+        "background_color": "#00008B",
+        "text_color": "#F08080"
+    },
+    {
+        "text": "产品##配置##显示屏##显示屏尺寸",
+        "suffix_key": "",
+        "background_color": "#F5DEB3",
+        "text_color": "#778899"
+    },
+    {
+        "text": "产品##配置##显示屏##显示屏分辨率",
+        "suffix_key": "",
+        "background_color": "#DA70D6",
+        "text_color": "#008000"
+    },
+    {
+        "text": "产品##配置##显示屏##显示屏界面设计",
+        "suffix_key": "",
+        "background_color": "#C71585",
+        "text_color": "#7FFF00"
+    },
+    {
+        "text": "产品##配置##显示屏##显示屏类型",
+        "suffix_key": "",
+        "background_color": "#8A2BE2",
+        "text_color": "#D8BFD8"
+    },
+    {
+        "text": "产品##配置##显示屏##显示屏数量",
+        "suffix_key": "",
+        "background_color": "#00CED1",
+        "text_color": "#00FFFF"
+    },
+    {
+        "text": "产品##配置##仪表台##故障灯",
+        "suffix_key": "",
+        "background_color": "#F5FFFA",
+        "text_color": "#483D8B"
+    },
+    {
+        "text": "产品##配置##仪表台##其他仪表台/仪表盘评价",
+        "suffix_key": "",
+        "background_color": "#0000CD",
+        "text_color": "#98FB98"
+    },
+    {
+        "text": "产品##配置##仪表台##仪表盘类型",
+        "suffix_key": "",
+        "background_color": "#F5DEB3",
+        "text_color": "#66CDAA"
+    },
+    {
+        "text": "产品##配置##仪表台##仪表盘造型设计",
+        "suffix_key": "",
+        "background_color": "#FFD700",
+        "text_color": "#228B22"
+    },
+    {
+        "text": "产品##配置##仪表台##仪表盘整体评价",
+        "suffix_key": "",
+        "background_color": "#FFFFF0",
+        "text_color": "#E6E6FA"
+    },
+    {
+        "text": "产品##配置##仪表台##仪表台材质",
+        "suffix_key": "",
+        "background_color": "#5F9EA0",
+        "text_color": "#9400D3"
+    },
+    {
+        "text": "产品##配置##音响##扬声器品牌",
+        "suffix_key": "",
+        "background_color": "#1E90FF",
+        "text_color": "#00FA9A"
+    },
+    {
+        "text": "产品##配置##音响##扬声器数量",
+        "suffix_key": "",
+        "background_color": "#0000FF",
+        "text_color": "#9932CC"
+    },
+    {
+        "text": "产品##配置##音响##扬声器效果",
+        "suffix_key": "",
+        "background_color": "#B8860B",
+        "text_color": "#FFA500"
+    },
+    {
+        "text": "产品##配置##音响##扬声器整体评价",
+        "suffix_key": "",
+        "background_color": "#00CED1",
+        "text_color": "#A9A9A9"
+    },
+    {
+        "text": "产品##配置##娱乐配置##VR娱乐",
+        "suffix_key": "",
+        "background_color": "#DCDCDC",
+        "text_color": "#FA8072"
+    },
+    {
+        "text": "产品##配置##娱乐配置##车载KTV",
+        "suffix_key": "",
+        "background_color": "#FF7F50",
+        "text_color": "#DB7093"
+    },
+    {
+        "text": "产品##配置##娱乐配置##车载游戏",
+        "suffix_key": "",
+        "background_color": "#FF8C00",
+        "text_color": "#00FFFF"
+    },
+    {
+        "text": "产品##配置##娱乐配置##生活信息查询",
+        "suffix_key": "",
+        "background_color": "#FF4500",
+        "text_color": "#FFA07A"
+    },
+    {
+        "text": "产品##配置##娱乐配置##收音机",
+        "suffix_key": "",
+        "background_color": "#87CEEB",
+        "text_color": "#6495ED"
+    },
+    {
+        "text": "产品##配置##娱乐配置##娱乐功能",
+        "suffix_key": "",
+        "background_color": "#00008B",
+        "text_color": "#98FB98"
+    },
+    {
+        "text": "产品##配置##娱乐配置##在线影音",
+        "suffix_key": "",
+        "background_color": "#FF00FF",
+        "text_color": "#FFF0F5"
+    },
+    {
+        "text": "产品##配置##娱乐配置##账户系统",
+        "suffix_key": "",
+        "background_color": "#DA70D6",
+        "text_color": "#9370DB"
+    },
+    {
+        "text": "产品##配置##中控台##点烟器",
+        "suffix_key": "",
+        "background_color": "#E9967A",
+        "text_color": "#ADD8E6"
+    },
+    {
+        "text": "产品##配置##中控台##排挡类型",
+        "suffix_key": "",
+        "background_color": "#BDB76B",
+        "text_color": "#FFF0F5"
+    },
+    {
+        "text": "产品##配置##中控台##排挡造型",
+        "suffix_key": "",
+        "background_color": "#DA70D6",
+        "text_color": "#0000CD"
+    },
+    {
+        "text": "产品##配置##中控台##中控台材质",
+        "suffix_key": "",
+        "background_color": "#FFDAB9",
+        "text_color": "#FF8C00"
+    },
+    {
+        "text": "产品##配置##中控台##中控台造型设计",
+        "suffix_key": "",
+        "background_color": "#DB7093",
+        "text_color": "#FFE4E1"
+    },
+    {
+        "text": "产品##配置##中控台##中控台整体评价",
+        "suffix_key": "",
+        "background_color": "#FFB6C1",
+        "text_color": "#FFFFE0"
+    },
+    {
+        "text": "产品##舒适性##底盘/悬架##底盘的整体评价",
+        "suffix_key": "",
+        "background_color": "#FFE4E1",
+        "text_color": "#0000CD"
+    },
+    {
+        "text": "产品##舒适性##底盘/悬架##底盘护甲",
+        "suffix_key": "",
+        "background_color": "#87CEEB",
+        "text_color": "#FF69B4"
+    },
+    {
+        "text": "产品##舒适性##底盘/悬架##底盘通过性",
+        "suffix_key": "",
+        "background_color": "#778899",
+        "text_color": "#F5F5DC"
+    },
+    {
+        "text": "产品##舒适性##底盘/悬架##减振效果整体评价",
+        "suffix_key": "",
+        "background_color": "#FFDAB9",
+        "text_color": "#FFA07A"
+    },
+    {
+        "text": "产品##舒适性##底盘/悬架##可变悬架",
+        "suffix_key": "",
+        "background_color": "#6A5ACD",
+        "text_color": "#CD853F"
+    },
+    {
+        "text": "产品##舒适性##底盘/悬架##其他底盘/悬架评价",
+        "suffix_key": "",
+        "background_color": "#F0FFFF",
+        "text_color": "#FFEFD5"
+    },
+    {
+        "text": "产品##舒适性##底盘/悬架##其他悬架舒适性评价",
+        "suffix_key": "",
+        "background_color": "#BA55D3",
+        "text_color": "#FFE4B5"
+    },
+    {
+        "text": "产品##舒适性##底盘/悬架##悬架的整体评价",
+        "suffix_key": "",
+        "background_color": "#FFFF00",
+        "text_color": "#708090"
+    },
+    {
+        "text": "产品##舒适性##底盘/悬架##悬架调校",
+        "suffix_key": "",
+        "background_color": "#708090",
+        "text_color": "#DDA0DD"
+    },
+    {
+        "text": "产品##舒适性##底盘/悬架##悬架类型",
+        "suffix_key": "",
+        "background_color": "#FFEBCD",
+        "text_color": "#F5FFFA"
+    },
+    {
+        "text": "产品##舒适性##底盘/悬架##悬架舒适性整体评价",
+        "suffix_key": "",
+        "background_color": "#A52A2A",
+        "text_color": "#808000"
+    },
+    {
+        "text": "产品##舒适性##抖动震动##车身抖动震动",
+        "suffix_key": "",
+        "background_color": "#1E90FF",
+        "text_color": "#808000"
+    },
+    {
+        "text": "产品##舒适性##抖动震动##怠速抖动",
+        "suffix_key": "",
+        "background_color": "#F5DEB3",
+        "text_color": "#FFFFFF"
+    },
+    {
+        "text": "产品##舒适性##抖动震动##抖动震动总体评价",
+        "suffix_key": "",
+        "background_color": "#FFEFD5",
+        "text_color": "#FF0000"
+    },
+    {
+        "text": "产品##舒适性##抖动震动##发动机抖动",
+        "suffix_key": "",
+        "background_color": "#708090",
+        "text_color": "#CD5C5C"
+    },
+    {
+        "text": "产品##舒适性##抖动震动##方向盘抖动",
+        "suffix_key": "",
+        "background_color": "#0000FF",
+        "text_color": "#006400"
+    },
+    {
+        "text": "产品##舒适性##抖动震动##其他抖动/震动评价",
+        "suffix_key": "",
+        "background_color": "#FAEBD7",
+        "text_color": "#FFDEAD"
+    },
+    {
+        "text": "产品##舒适性##空调##车内空气调节/花粉过滤",
+        "suffix_key": "",
+        "background_color": "#FFEBCD",
+        "text_color": "#FF4500"
+    },
+    {
+        "text": "产品##舒适性##空调##后排空调效果",
+        "suffix_key": "",
+        "background_color": "#32CD32",
+        "text_color": "#FFFACD"
+    },
+    {
+        "text": "产品##舒适性##空调##空调出风口",
+        "suffix_key": "",
+        "background_color": "#778899",
+        "text_color": "#FF6347"
+    },
+    {
+        "text": "产品##舒适性##空调##空调故障",
+        "suffix_key": "",
+        "background_color": "#D3D3D3",
+        "text_color": "#C71585"
+    },
+    {
+        "text": "产品##舒适性##空调##空调配件",
+        "suffix_key": "",
+        "background_color": "#6A5ACD",
+        "text_color": "#EE82EE"
+    },
+    {
+        "text": "产品##舒适性##空调##空调异味",
+        "suffix_key": "",
+        "background_color": "#FF4500",
+        "text_color": "#000000"
+    },
+    {
+        "text": "产品##舒适性##空调##空调整体评价",
+        "suffix_key": "",
+        "background_color": "#FFFACD",
+        "text_color": "#6495ED"
+    },
+    {
+        "text": "产品##舒适性##空调##空调制冷效果",
+        "suffix_key": "",
+        "background_color": "#00BFFF",
+        "text_color": "#FF6347"
+    },
+    {
+        "text": "产品##舒适性##空调##空调制热效果",
+        "suffix_key": "",
+        "background_color": "#E6E6FA",
+        "text_color": "#FFA500"
+    },
+    {
+        "text": "产品##舒适性##空调##自动空调",
+        "suffix_key": "",
+        "background_color": "#00CED1",
+        "text_color": "#00BFFF"
+    },
+    {
+        "text": "产品##舒适性##其他舒适性##电动吸合门",
+        "suffix_key": "",
+        "background_color": "#40E0D0",
+        "text_color": "#FFA500"
+    },
+    {
+        "text": "产品##舒适性##其他舒适性##定速巡航",
+        "suffix_key": "",
+        "background_color": "#663399",
+        "text_color": "#FFF5EE"
+    },
+    {
+        "text": "产品##舒适性##其他舒适性##减振器",
+        "suffix_key": "",
+        "background_color": "#696969",
+        "text_color": "#0000FF"
+    },
+    {
+        "text": "产品##舒适性##其他舒适性##阻尼板",
+        "suffix_key": "",
+        "background_color": "#0000CD",
+        "text_color": "#FFDEAD"
+    },
+    {
+        "text": "产品##舒适性##舒适性感受##NVH静音座舱",
+        "suffix_key": "",
+        "background_color": "#7FFFD4",
+        "text_color": "#98FB98"
+    },
+    {
+        "text": "产品##舒适性##舒适性感受##乘坐舒适性评价",
+        "suffix_key": "",
+        "background_color": "#4169E1",
+        "text_color": "#BDB76B"
+    },
+    {
+        "text": "产品##舒适性##舒适性感受##舒适性整体评价",
+        "suffix_key": "",
+        "background_color": "#87CEFA",
+        "text_color": "#CD853F"
+    },
+    {
+        "text": "产品##舒适性##舒适性配置##第二排靠背角度调节",
+        "suffix_key": "",
+        "background_color": "#EEE8AA",
+        "text_color": "#87CEEB"
+    },
+    {
+        "text": "产品##舒适性##舒适性配置##电动座椅记忆",
+        "suffix_key": "",
+        "background_color": "#FF7F50",
+        "text_color": "#B8860B"
+    },
+    {
+        "text": "产品##舒适性##舒适性配置##后排空调",
+        "suffix_key": "",
+        "background_color": "#FF1493",
+        "text_color": "#0000CD"
+    },
+    {
+        "text": "产品##舒适性##舒适性配置##后排老板键",
+        "suffix_key": "",
+        "background_color": "#228B22",
+        "text_color": "#87CEEB"
+    },
+    {
+        "text": "产品##舒适性##舒适性配置##化妆镜",
+        "suffix_key": "",
+        "background_color": "#FF0000",
+        "text_color": "#2E8B57"
+    },
+    {
+        "text": "产品##舒适性##舒适性配置##前/后排座椅按摩",
+        "suffix_key": "",
+        "background_color": "#A9A9A9",
+        "text_color": "#483D8B"
+    },
+    {
+        "text": "产品##舒适性##舒适性配置##前/后排座椅电动调节",
+        "suffix_key": "",
+        "background_color": "#7FFFD4",
+        "text_color": "#778899"
+    },
+    {
+        "text": "产品##舒适性##舒适性配置##前/后排座椅加热",
+        "suffix_key": "",
+        "background_color": "#FF69B4",
+        "text_color": "#FFE4C4"
+    },
+    {
+        "text": "产品##舒适性##舒适性配置##前/后排座椅通风",
+        "suffix_key": "",
+        "background_color": "#006400",
+        "text_color": "#1E90FF"
+    },
+    {
+        "text": "产品##舒适性##舒适性配置##腿部支撑调节",
+        "suffix_key": "",
+        "background_color": "#F5F5F5",
+        "text_color": "#778899"
+    },
+    {
+        "text": "产品##舒适性##舒适性配置##温度分区控制",
+        "suffix_key": "",
+        "background_color": "#FDF5E6",
+        "text_color": "#FFA07A"
+    },
+    {
+        "text": "产品##舒适性##舒适性配置##腰部支撑调节",
+        "suffix_key": "",
+        "background_color": "#8B0000",
+        "text_color": "#00BFFF"
+    },
+    {
+        "text": "产品##舒适性##舒适性配置##主/副驾驶座电动调节",
+        "suffix_key": "",
+        "background_color": "#4682B4",
+        "text_color": "#ADFF2F"
+    },
+    {
+        "text": "产品##舒适性##噪音异响控制##ABC柱/D柱异响",
+        "suffix_key": "",
+        "background_color": "#FF7F50",
+        "text_color": "#FAFAD2"
+    },
+    {
+        "text": "产品##舒适性##噪音异响控制##安全带异响",
+        "suffix_key": "",
+        "background_color": "#708090",
+        "text_color": "#FFD700"
+    },
+    {
+        "text": "产品##舒适性##噪音异响控制##变速器/变速箱异响",
+        "suffix_key": "",
+        "background_color": "#BC8F8F",
+        "text_color": "#DCDCDC"
+    },
+    {
+        "text": "产品##舒适性##噪音异响控制##玻璃升降器异响",
+        "suffix_key": "",
+        "background_color": "#A9A9A9",
+        "text_color": "#40E0D0"
+    },
+    {
+        "text": "产品##舒适性##噪音异响控制##车窗异响",
+        "suffix_key": "",
+        "background_color": "#A9A9A9",
+        "text_color": "#ADD8E6"
+    },
+    {
+        "text": "产品##舒适性##噪音异响控制##车门异响",
+        "suffix_key": "",
+        "background_color": "#00BFFF",
+        "text_color": "#FAEBD7"
+    },
+    {
+        "text": "产品##舒适性##噪音异响控制##车内/其他部件异响",
+        "suffix_key": "",
+        "background_color": "#2E8B57",
+        "text_color": "#90EE90"
+    },
+    {
+        "text": "产品##舒适性##噪音异响控制##怠速状态噪音",
+        "suffix_key": "",
+        "background_color": "#808080",
+        "text_color": "#00FFFF"
+    },
+    {
+        "text": "产品##舒适性##噪音异响控制##底盘噪音",
+        "suffix_key": "",
+        "background_color": "#3CB371",
+        "text_color": "#6A5ACD"
+    },
+    {
+        "text": "产品##舒适性##噪音异响控制##发动机声音",
+        "suffix_key": "",
+        "background_color": "#00008B",
+        "text_color": "#A9A9A9"
+    },
+    {
+        "text": "产品##舒适性##噪音异响控制##方向盘/方向机异响",
+        "suffix_key": "",
+        "background_color": "#D2B48C",
+        "text_color": "#8FBC8F"
+    },
+    {
+        "text": "产品##舒适性##噪音异响控制##风噪",
+        "suffix_key": "",
+        "background_color": "#F5F5F5",
+        "text_color": "#ADD8E6"
+    },
+    {
+        "text": "产品##舒适性##噪音异响控制##静音效果/车体密封性",
+        "suffix_key": "",
+        "background_color": "#00FFFF",
+        "text_color": "#90EE90"
+    },
+    {
+        "text": "产品##舒适性##噪音异响控制##空调异响",
+        "suffix_key": "",
+        "background_color": "#FFA500",
+        "text_color": "#008B8B"
+    },
+    {
+        "text": "产品##舒适性##噪音异响控制##冷车起步噪音",
+        "suffix_key": "",
+        "background_color": "#663399",
+        "text_color": "#A0522D"
+    },
+    {
+        "text": "产品##舒适性##噪音异响控制##轮胎胎噪/路噪",
+        "suffix_key": "",
+        "background_color": "#FF6347",
+        "text_color": "#F4A460"
+    },
+    {
+        "text": "产品##舒适性##噪音异响控制##刹车异响",
+        "suffix_key": "",
+        "background_color": "#FF00FF",
+        "text_color": "#008B8B"
+    },
+    {
+        "text": "产品##舒适性##噪音异响控制##天窗异响",
+        "suffix_key": "",
+        "background_color": "#B0E0E6",
+        "text_color": "#FFA07A"
+    },
+    {
+        "text": "产品##舒适性##噪音异响控制##涡轮异响",
+        "suffix_key": "",
+        "background_color": "#006400",
+        "text_color": "#B8860B"
+    },
+    {
+        "text": "产品##舒适性##噪音异响控制##悬架异响",
+        "suffix_key": "",
+        "background_color": "#9932CC",
+        "text_color": "#FFB6C1"
+    },
+    {
+        "text": "产品##舒适性##噪音异响控制##仪表台异响",
+        "suffix_key": "",
+        "background_color": "#FFE4B5",
+        "text_color": "#FFF0F5"
+    },
+    {
+        "text": "产品##舒适性##噪音异响控制##雨刷异响",
+        "suffix_key": "",
+        "background_color": "#FF1493",
+        "text_color": "#DC143C"
+    },
+    {
+        "text": "产品##舒适性##噪音异响控制##制动踏板异响",
+        "suffix_key": "",
+        "background_color": "#B0E0E6",
+        "text_color": "#FF0000"
+    },
+    {
+        "text": "产品##舒适性##噪音异响控制##中控台异响",
+        "suffix_key": "",
+        "background_color": "#008080",
+        "text_color": "#DEB887"
+    },
+    {
+        "text": "产品##舒适性##噪音异响控制##座椅异响",
+        "suffix_key": "",
+        "background_color": "#FFC0CB",
+        "text_color": "#FF6347"
+    },
+    {
+        "text": "产品##舒适性##座椅##第三排座椅",
+        "suffix_key": "",
+        "background_color": "#00FF7F",
+        "text_color": "#87CEFA"
+    },
+    {
+        "text": "产品##舒适性##座椅##后排座椅放倒",
+        "suffix_key": "",
+        "background_color": "#F5F5F5",
+        "text_color": "#B0C4DE"
+    },
+    {
+        "text": "产品##舒适性##座椅##后排座椅舒适性",
+        "suffix_key": "",
+        "background_color": "#DCDCDC",
+        "text_color": "#3CB371"
+    },
+    {
+        "text": "产品##舒适性##座椅##其他座椅评价",
+        "suffix_key": "",
+        "background_color": "#5F9EA0",
+        "text_color": "#000080"
+    },
+    {
+        "text": "产品##舒适性##座椅##其他座椅舒适性评价",
+        "suffix_key": "",
+        "background_color": "#F5F5F5",
+        "text_color": "#000080"
+    },
+    {
+        "text": "产品##舒适性##座椅##头枕",
+        "suffix_key": "",
+        "background_color": "#228B22",
+        "text_color": "#D3D3D3"
+    },
+    {
+        "text": "产品##舒适性##座椅##头枕舒适性",
+        "suffix_key": "",
+        "background_color": "#663399",
+        "text_color": "#FFF0F5"
+    },
+    {
+        "text": "产品##舒适性##座椅##座椅扶手舒适性",
+        "suffix_key": "",
+        "background_color": "#FF6347",
+        "text_color": "#E6E6FA"
+    },
+    {
+        "text": "产品##舒适性##座椅##座椅舒适性整体评价",
+        "suffix_key": "",
+        "background_color": "#4682B4",
+        "text_color": "#FFA500"
+    },
+    {
+        "text": "产品##舒适性##座椅##座椅颜色",
+        "suffix_key": "",
+        "background_color": "#ADFF2F",
+        "text_color": "#9932CC"
+    },
+    {
+        "text": "产品##舒适性##座椅##座椅硬度",
+        "suffix_key": "",
+        "background_color": "#BC8F8F",
+        "text_color": "#8B4513"
+    },
+    {
+        "text": "产品##舒适性##座椅##座椅造型设计",
+        "suffix_key": "",
+        "background_color": "#00FF7F",
+        "text_color": "#2E8B57"
+    },
+    {
+        "text": "产品##舒适性##座椅##座椅整体评价",
+        "suffix_key": "",
+        "background_color": "#2F4F4F",
+        "text_color": "#48D1CC"
+    },
+    {
+        "text": "产品##舒适性##座椅##座椅支撑/包裹性",
+        "suffix_key": "",
+        "background_color": "#F0F8FF",
+        "text_color": "#F08080"
+    },
+    {
+        "text": "产品##舒适性##座椅##座椅做工",
+        "suffix_key": "",
+        "background_color": "#808080",
+        "text_color": "#4B0082"
+    },
+    {
+        "text": "产品##外观##车窗##玻璃升降",
+        "suffix_key": "",
+        "background_color": "#778899",
+        "text_color": "#32CD32"
+    },
+    {
+        "text": "产品##外观##车窗##车窗",
+        "suffix_key": "",
+        "background_color": "#3CB371",
+        "text_color": "#000080"
+    },
+    {
+        "text": "产品##外观##车窗##挡风玻璃",
+        "suffix_key": "",
+        "background_color": "#00008B",
+        "text_color": "#FFE4E1"
+    },
+    {
+        "text": "产品##外观##车窗##防紫外线/隔热玻璃",
+        "suffix_key": "",
+        "background_color": "#20B2AA",
+        "text_color": "#D3D3D3"
+    },
+    {
+        "text": "产品##外观##车窗##其他车窗评价",
+        "suffix_key": "",
+        "background_color": "#F0FFF0",
+        "text_color": "#F0F8FF"
+    },
+    {
+        "text": "产品##外观##车窗##雨刷",
+        "suffix_key": "",
+        "background_color": "#FF4500",
+        "text_color": "#B0E0E6"
+    },
+    {
+        "text": "产品##外观##车轮##车轮整体评价",
+        "suffix_key": "",
+        "background_color": "#E9967A",
+        "text_color": "#EEE8AA"
+    },
+    {
+        "text": "产品##外观##车轮##挡泥板",
+        "suffix_key": "",
+        "background_color": "#FFFACD",
+        "text_color": "#FFFAFA"
+    },
+    {
+        "text": "产品##外观##车轮##轮胎尺寸",
+        "suffix_key": "",
+        "background_color": "#FFFFE0",
+        "text_color": "#9932CC"
+    },
+    {
+        "text": "产品##外观##车轮##轮胎故障",
+        "suffix_key": "",
+        "background_color": "#FFFAFA",
+        "text_color": "#000000"
+    },
+    {
+        "text": "产品##外观##车轮##轮胎品牌",
+        "suffix_key": "",
+        "background_color": "#D3D3D3",
+        "text_color": "#8FBC8F"
+    },
+    {
+        "text": "产品##外观##车轮##轮胎性能",
+        "suffix_key": "",
+        "background_color": "#FFEFD5",
+        "text_color": "#7FFF00"
+    },
+    {
+        "text": "产品##外观##车轮##轮辋材质",
+        "suffix_key": "",
+        "background_color": "#FF8C00",
+        "text_color": "#FA8072"
+    },
+    {
+        "text": "产品##外观##车轮##轮辋造型",
+        "suffix_key": "",
+        "background_color": "#7FFFD4",
+        "text_color": "#6495ED"
+    },
+    {
+        "text": "产品##外观##车轮##其他车轮评价",
+        "suffix_key": "",
+        "background_color": "#00FFFF",
+        "text_color": "#778899"
+    },
+    {
+        "text": "产品##外观##车门##车门把手",
+        "suffix_key": "",
+        "background_color": "#F5FFFA",
+        "text_color": "#F5F5F5"
+    },
+    {
+        "text": "产品##外观##车门##车门材质",
+        "suffix_key": "",
+        "background_color": "#BC8F8F",
+        "text_color": "#87CEEB"
+    },
+    {
+        "text": "产品##外观##车门##车门整体评价",
+        "suffix_key": "",
+        "background_color": "#40E0D0",
+        "text_color": "#4B0082"
+    },
+    {
+        "text": "产品##外观##车门##其他车门评价",
+        "suffix_key": "",
+        "background_color": "#8FBC8F",
+        "text_color": "#00CED1"
+    },
+    {
+        "text": "产品##外观##车身整体##车身漆面",
+        "suffix_key": "",
+        "background_color": "#008080",
+        "text_color": "#9370DB"
+    },
+    {
+        "text": "产品##外观##车身整体##车身颜色",
+        "suffix_key": "",
+        "background_color": "#FF7F50",
+        "text_color": "#7FFFD4"
+    },
+    {
+        "text": "产品##外观##车身整体##车身整体评价",
+        "suffix_key": "",
+        "background_color": "#00CED1",
+        "text_color": "#FFFF00"
+    },
+    {
+        "text": "产品##外观##车身整体##车身做工",
+        "suffix_key": "",
+        "background_color": "#FFE4C4",
+        "text_color": "#32CD32"
+    },
+    {
+        "text": "产品##外观##车身整体##整车尺寸",
+        "suffix_key": "",
+        "background_color": "#00FFFF",
+        "text_color": "#C0C0C0"
+    },
+    {
+        "text": "产品##外观##车身整体##轴距",
+        "suffix_key": "",
+        "background_color": "#6A5ACD",
+        "text_color": "#8B4513"
+    },
+    {
+        "text": "产品##外观##车外灯##灯组/大灯模块",
+        "suffix_key": "",
+        "background_color": "#778899",
+        "text_color": "#FFE4E1"
+    },
+    {
+        "text": "产品##外观##车外灯##近光灯",
+        "suffix_key": "",
+        "background_color": "#D3D3D3",
+        "text_color": "#A9A9A9"
+    },
+    {
+        "text": "产品##外观##车外灯##其他车外灯评价",
+        "suffix_key": "",
+        "background_color": "#BA55D3",
+        "text_color": "#A9A9A9"
+    },
+    {
+        "text": "产品##外观##车外灯##前/后雾灯",
+        "suffix_key": "",
+        "background_color": "#FAEBD7",
+        "text_color": "#FF0000"
+    },
+    {
+        "text": "产品##外观##车外灯##前大灯",
+        "suffix_key": "",
+        "background_color": "#9400D3",
+        "text_color": "#800080"
+    },
+    {
+        "text": "产品##外观##车外灯##日间行车灯",
+        "suffix_key": "",
+        "background_color": "#DC143C",
+        "text_color": "#FFDEAD"
+    },
+    {
+        "text": "产品##外观##车外灯##示廓灯",
+        "suffix_key": "",
+        "background_color": "#778899",
+        "text_color": "#EEE8AA"
+    },
+    {
+        "text": "产品##外观##车外灯##尾灯",
+        "suffix_key": "",
+        "background_color": "#FFF0F5",
+        "text_color": "#F5DEB3"
+    },
+    {
+        "text": "产品##外观##车外灯##转向头灯",
+        "suffix_key": "",
+        "background_color": "#BA55D3",
+        "text_color": "#FFF0F5"
+    },
+    {
+        "text": "产品##外观##车外灯##自动头灯",
+        "suffix_key": "",
+        "background_color": "#FF6347",
+        "text_color": "#A0522D"
+    },
+    {
+        "text": "产品##外观##车外灯##自适应远近光",
+        "suffix_key": "",
+        "background_color": "#7B68EE",
+        "text_color": "#8FBC8F"
+    },
+    {
+        "text": "产品##外观##其他外观##ABC柱/D柱",
+        "suffix_key": "",
+        "background_color": "#FFF8DC",
+        "text_color": "#FFFFE0"
+    },
+    {
+        "text": "产品##外观##其他外观##保险杠",
+        "suffix_key": "",
+        "background_color": "#B0C4DE",
+        "text_color": "#483D8B"
+    },
+    {
+        "text": "产品##外观##其他外观##车标",
+        "suffix_key": "",
+        "background_color": "#D3D3D3",
+        "text_color": "#00FA9A"
+    },
+    {
+        "text": "产品##外观##其他外观##车牌",
+        "suffix_key": "",
+        "background_color": "#8B4513",
+        "text_color": "#9370DB"
+    },
+    {
+        "text": "产品##外观##其他外观##发动机盖",
+        "suffix_key": "",
+        "background_color": "#FF7F50",
+        "text_color": "#00FFFF"
+    },
+    {
+        "text": "产品##外观##其他外观##防撞梁",
+        "suffix_key": "",
+        "background_color": "#FF00FF",
+        "text_color": "#FFDEAD"
+    },
+    {
+        "text": "产品##外观##其他外观##后备厢",
+        "suffix_key": "",
+        "background_color": "#000080",
+        "text_color": "#F08080"
+    },
+    {
+        "text": "产品##外观##其他外观##饰条/镀铬条",
+        "suffix_key": "",
+        "background_color": "#808080",
+        "text_color": "#FF7F50"
+    },
+    {
+        "text": "产品##外观##其他外观##尾翼/扰流板",
+        "suffix_key": "",
+        "background_color": "#3CB371",
+        "text_color": "#DCDCDC"
+    },
+    {
+        "text": "产品##外观##其他外观##翼子板",
+        "suffix_key": "",
+        "background_color": "#8A2BE2",
+        "text_color": "#BC8F8F"
+    },
+    {
+        "text": "产品##外观##其他外观##迎宾踏板",
+        "suffix_key": "",
+        "background_color": "#F0FFFF",
+        "text_color": "#E0FFFF"
+    },
+    {
+        "text": "产品##外观##其他外观##油箱/油路",
+        "suffix_key": "",
+        "background_color": "#C0C0C0",
+        "text_color": "#FF00FF"
+    },
+    {
+        "text": "产品##外观##其他外观##油箱盖",
+        "suffix_key": "",
+        "background_color": "#7FFFD4",
+        "text_color": "#00FFFF"
+    },
+    {
+        "text": "产品##外观##其他外观##运动外观套件",
+        "suffix_key": "",
+        "background_color": "#FFB6C1",
+        "text_color": "#ADD8E6"
+    },
+    {
+        "text": "产品##外观##视野##后视镜视野",
+        "suffix_key": "",
+        "background_color": "#B0E0E6",
+        "text_color": "#808000"
+    },
+    {
+        "text": "产品##外观##视野##前方视野",
+        "suffix_key": "",
+        "background_color": "#FFDAB9",
+        "text_color": "#D2B48C"
+    },
+    {
+        "text": "产品##外观##视野##视野整体评价",
+        "suffix_key": "",
+        "background_color": "#8B0000",
+        "text_color": "#A9A9A9"
+    },
+    {
+        "text": "产品##外观##外观造型##侧面/腰线造型",
+        "suffix_key": "",
+        "background_color": "#F8F8FF",
+        "text_color": "#1E90FF"
+    },
+    {
+        "text": "产品##外观##外观造型##车顶造型",
+        "suffix_key": "",
+        "background_color": "#4682B4",
+        "text_color": "#FFEFD5"
+    },
+    {
+        "text": "产品##外观##外观造型##车头/前脸造型",
+        "suffix_key": "",
+        "background_color": "#708090",
+        "text_color": "#3CB371"
+    },
+    {
+        "text": "产品##外观##外观造型##车外灯整体评价",
+        "suffix_key": "",
+        "background_color": "#C0C0C0",
+        "text_color": "#800080"
+    },
+    {
+        "text": "产品##外观##外观造型##车尾造型",
+        "suffix_key": "",
+        "background_color": "#FF8C00",
+        "text_color": "#FFFAFA"
+    },
+    {
+        "text": "产品##外观##外观造型##大灯造型",
+        "suffix_key": "",
+        "background_color": "#DA70D6",
+        "text_color": "#483D8B"
+    },
+    {
+        "text": "产品##外观##外观造型##进气格栅",
+        "suffix_key": "",
+        "background_color": "#F5FFFA",
+        "text_color": "#2F4F4F"
+    },
+    {
+        "text": "产品##外观##外观造型##全景天窗",
+        "suffix_key": "",
+        "background_color": "#D2691E",
+        "text_color": "#8A2BE2"
+    },
+    {
+        "text": "产品##外观##外观造型##外观造型整体评价",
+        "suffix_key": "",
+        "background_color": "#00FFFF",
+        "text_color": "#DDA0DD"
+    },
+    {
+        "text": "产品##外观##外后视镜##后视镜电动调节",
+        "suffix_key": "",
+        "background_color": "#696969",
+        "text_color": "#4B0082"
+    },
+    {
+        "text": "产品##外观##外后视镜##后视镜电动折叠",
+        "suffix_key": "",
+        "background_color": "#663399",
+        "text_color": "#191970"
+    },
+    {
+        "text": "产品##外观##外后视镜##后视镜记忆",
+        "suffix_key": "",
+        "background_color": "#FAFAD2",
+        "text_color": "#2F4F4F"
+    },
+    {
+        "text": "产品##外观##外后视镜##后视镜外观设计",
+        "suffix_key": "",
+        "background_color": "#F5F5DC",
+        "text_color": "#A9A9A9"
+    },
+    {
+        "text": "产品##外观##外后视镜##后视镜整体评价",
+        "suffix_key": "",
+        "background_color": "#6B8E23",
+        "text_color": "#FF6347"
+    },
+    {
+        "text": "服务##售后服务##服务人员##服务人员诚信",
+        "suffix_key": "",
+        "background_color": "#B0E0E6",
+        "text_color": "#FF7F50"
+    },
+    {
+        "text": "服务##售后服务##服务人员##服务人员态度",
+        "suffix_key": "",
+        "background_color": "#00FA9A",
+        "text_color": "#D3D3D3"
+    },
+    {
+        "text": "服务##售后服务##服务人员##服务人员专业性",
+        "suffix_key": "",
+        "background_color": "#D2691E",
+        "text_color": "#A52A2A"
+    },
+    {
+        "text": "服务##售后服务##服务人员##服务人员总体评价",
+        "suffix_key": "",
+        "background_color": "#1E90FF",
+        "text_color": "#F5FFFA"
+    },
+    {
+        "text": "服务##售后服务##服务设施##维修保养设备",
+        "suffix_key": "",
+        "background_color": "#8B008B",
+        "text_color": "#DEB887"
+    },
+    {
+        "text": "服务##售后服务##服务设施##休息区舒适性",
+        "suffix_key": "",
+        "background_color": "#DB7093",
+        "text_color": "#FFDEAD"
+    },
+    {
+        "text": "服务##售后服务##服务设施##休息区整洁度",
+        "suffix_key": "",
+        "background_color": "#FA8072",
+        "text_color": "#FFFF00"
+    },
+    {
+        "text": "服务##售后服务##服务时间##保养时间",
+        "suffix_key": "",
+        "background_color": "#F5F5DC",
+        "text_color": "#FFF5EE"
+    },
+    {
+        "text": "服务##售后服务##服务时间##等待时间",
+        "suffix_key": "",
+        "background_color": "#9370DB",
+        "text_color": "#FFEBCD"
+    },
+    {
+        "text": "服务##售后服务##服务时间##其他服务时间评价",
+        "suffix_key": "",
+        "background_color": "#FFFFF0",
+        "text_color": "#C71585"
+    },
+    {
+        "text": "服务##售后服务##服务时间##维修时间",
+        "suffix_key": "",
+        "background_color": "#FF8C00",
+        "text_color": "#696969"
+    },
+    {
+        "text": "服务##售后服务##服务项目##定损理赔",
+        "suffix_key": "",
+        "background_color": "#F5F5DC",
+        "text_color": "#FAFAD2"
+    },
+    {
+        "text": "服务##售后服务##服务项目##服务标准",
+        "suffix_key": "",
+        "background_color": "#FFC0CB",
+        "text_color": "#FFFAF0"
+    },
+    {
+        "text": "服务##售后服务##服务项目##改装服务",
+        "suffix_key": "",
+        "background_color": "#556B2F",
+        "text_color": "#DB7093"
+    },
+    {
+        "text": "服务##售后服务##服务项目##加装服务",
+        "suffix_key": "",
+        "background_color": "#FFC0CB",
+        "text_color": "#6B8E23"
+    },
+    {
+        "text": "服务##售后服务##服务项目##美容服务",
+        "suffix_key": "",
+        "background_color": "#FFFF00",
+        "text_color": "#CD5C5C"
+    },
+    {
+        "text": "服务##售后服务##服务项目##上门服务",
+        "suffix_key": "",
+        "background_color": "#00008B",
+        "text_color": "#DCDCDC"
+    },
+    {
+        "text": "服务##售后服务##服务项目##升级服务",
+        "suffix_key": "",
+        "background_color": "#DDA0DD",
+        "text_color": "#FFDAB9"
+    },
+    {
+        "text": "服务##售后服务##服务项目##延保服务",
+        "suffix_key": "",
+        "background_color": "#B8860B",
+        "text_color": "#FFFFE0"
+    },
+    {
+        "text": "服务##售后服务##服务项目##移动服务",
+        "suffix_key": "",
+        "background_color": "#F5F5DC",
+        "text_color": "#00FF7F"
+    },
+    {
+        "text": "服务##售后服务##服务项目##硬件升级",
+        "suffix_key": "",
+        "background_color": "#FF00FF",
+        "text_color": "#D8BFD8"
+    },
+    {
+        "text": "服务##售后服务##服务项目##预约服务",
+        "suffix_key": "",
+        "background_color": "#556B2F",
+        "text_color": "#483D8B"
+    },
+    {
+        "text": "服务##售后服务##服务项目##质保服务",
+        "suffix_key": "",
+        "background_color": "#708090",
+        "text_color": "#FFEFD5"
+    },
+    {
+        "text": "服务##售后服务##服务项目##租车服务",
+        "suffix_key": "",
+        "background_color": "#FAFAD2",
+        "text_color": "#EEE8AA"
+    },
+    {
+        "text": "服务##售后服务##服务质量##保养质量",
+        "suffix_key": "",
+        "background_color": "#2F4F4F",
+        "text_color": "#A9A9A9"
+    },
+    {
+        "text": "服务##售后服务##服务质量##备件供应与质量",
+        "suffix_key": "",
+        "background_color": "#48D1CC",
+        "text_color": "#EE82EE"
+    },
+    {
+        "text": "服务##售后服务##服务质量##车辆清洁",
+        "suffix_key": "",
+        "background_color": "#556B2F",
+        "text_color": "#00FF00"
+    },
+    {
+        "text": "服务##售后服务##服务质量##维修质量",
+        "suffix_key": "",
+        "background_color": "#7B68EE",
+        "text_color": "#87CEFA"
+    },
+    {
+        "text": "服务##售后服务##售后服务总体##售后服务总体评价",
+        "suffix_key": "",
+        "background_color": "#FFF0F5",
+        "text_color": "#FAEBD7"
+    },
+    {
+        "text": "服务##销售服务##交车过程##交车过程总体评价",
+        "suffix_key": "",
+        "background_color": "#708090",
+        "text_color": "#7B68EE"
+    },
+    {
+        "text": "服务##销售服务##交车过程##交车时间",
+        "suffix_key": "",
+        "background_color": "#0000CD",
+        "text_color": "#FF8C00"
+    },
+    {
+        "text": "服务##销售服务##交易过程##合同手续",
+        "suffix_key": "",
+        "background_color": "#696969",
+        "text_color": "#8B0000"
+    },
+    {
+        "text": "服务##销售服务##交易过程##金融服务",
+        "suffix_key": "",
+        "background_color": "#9ACD32",
+        "text_color": "#7CFC00"
+    },
+    {
+        "text": "服务##销售服务##交易过程##团购",
+        "suffix_key": "",
+        "background_color": "#DCDCDC",
+        "text_color": "#BC8F8F"
+    },
+    {
+        "text": "服务##销售服务##交易过程##置换服务",
+        "suffix_key": "",
+        "background_color": "#BA55D3",
+        "text_color": "#FF00FF"
+    },
+    {
+        "text": "服务##销售服务##经销商设施##经销商地理位置",
+        "suffix_key": "",
+        "background_color": "#708090",
+        "text_color": "#00FFFF"
+    },
+    {
+        "text": "服务##销售服务##经销商设施##经销商设施总体评价",
+        "suffix_key": "",
+        "background_color": "#FA8072",
+        "text_color": "#DAA520"
+    },
+    {
+        "text": "服务##销售服务##经销商设施##经销商数量",
+        "suffix_key": "",
+        "background_color": "#D8BFD8",
+        "text_color": "#556B2F"
+    },
+    {
+        "text": "服务##销售服务##经销商设施##其他经销商设施评价",
+        "suffix_key": "",
+        "background_color": "#A0522D",
+        "text_color": "#40E0D0"
+    },
+    {
+        "text": "服务##销售服务##经销商设施##展厅布局",
+        "suffix_key": "",
+        "background_color": "#FF8C00",
+        "text_color": "#F0E68C"
+    },
+    {
+        "text": "服务##销售服务##经销商设施##展厅整洁度",
+        "suffix_key": "",
+        "background_color": "#006400",
+        "text_color": "#EEE8AA"
+    },
+    {
+        "text": "服务##销售服务##开始购车经历##实车试乘试驾及介绍",
+        "suffix_key": "",
+        "background_color": "#3CB371",
+        "text_color": "#696969"
+    },
+    {
+        "text": "服务##销售服务##其他服务##订购",
+        "suffix_key": "",
+        "background_color": "#AFEEEE",
+        "text_color": "#F0F8FF"
+    },
+    {
+        "text": "服务##销售服务##其他服务##上牌服务",
+        "suffix_key": "",
+        "background_color": "#008080",
+        "text_color": "#2E8B57"
+    },
+    {
+        "text": "服务##销售服务##销售人员##销售人员诚信",
+        "suffix_key": "",
+        "background_color": "#00BFFF",
+        "text_color": "#F0F8FF"
+    },
+    {
+        "text": "服务##销售服务##销售人员##销售人员态度",
+        "suffix_key": "",
+        "background_color": "#A52A2A",
+        "text_color": "#008080"
+    },
+    {
+        "text": "服务##销售服务##销售人员##销售人员专业性",
+        "suffix_key": "",
+        "background_color": "#008000",
+        "text_color": "#808000"
+    },
+    {
+        "text": "服务##销售服务##销售人员##销售人员总体评价",
+        "suffix_key": "",
+        "background_color": "#8A2BE2",
+        "text_color": "#E0FFFF"
+    },
+    {
+        "text": "服务##总体服务##4S店服务总体##4S店服务总体评价",
+        "suffix_key": "",
+        "background_color": "#9370DB",
+        "text_color": "#FF7F50"
+    },
+    {
+        "text": "经济性##购车成本##价格政策##购置税",
+        "suffix_key": "",
+        "background_color": "#DCDCDC",
+        "text_color": "#ADFF2F"
+    },
+    {
+        "text": "经济性##购车成本##价格政策##购置税优惠",
+        "suffix_key": "",
+        "background_color": "#E9967A",
+        "text_color": "#32CD32"
+    },
+    {
+        "text": "经济性##购车成本##价格政策##关税",
+        "suffix_key": "",
+        "background_color": "#FFFAFA",
+        "text_color": "#800080"
+    },
+    {
+        "text": "经济性##购车成本##价格政策##其他价格政策",
+        "suffix_key": "",
+        "background_color": "#7B68EE",
+        "text_color": "#FFFACD"
+    },
+    {
+        "text": "经济性##购车成本##性价比##加价现象",
+        "suffix_key": "",
+        "background_color": "#F5FFFA",
+        "text_color": "#7FFFD4"
+    },
+    {
+        "text": "经济性##购车成本##性价比##其他性价比",
+        "suffix_key": "",
+        "background_color": "#FFFAFA",
+        "text_color": "#FAF0E6"
+    },
+    {
+        "text": "经济性##购车成本##性价比##优惠促销",
+        "suffix_key": "",
+        "background_color": "#8FBC8F",
+        "text_color": "#FF0000"
+    },
+    {
+        "text": "经济性##购车成本##性价比##整车价格",
+        "suffix_key": "",
+        "background_color": "#2E8B57",
+        "text_color": "#8B4513"
+    },
+    {
+        "text": "经济性##使用成本##保值率##保值率",
+        "suffix_key": "",
+        "background_color": "#F0FFFF",
+        "text_color": "#7FFFD4"
+    },
+    {
+        "text": "经济性##使用成本##服务费用##保养费用",
+        "suffix_key": "",
+        "background_color": "#F0FFF0",
+        "text_color": "#DEB887"
+    },
+    {
+        "text": "经济性##使用成本##服务费用##费用透明度",
+        "suffix_key": "",
+        "background_color": "#F5F5DC",
+        "text_color": "#0000CD"
+    },
+    {
+        "text": "经济性##使用成本##服务费用##工时费用",
+        "suffix_key": "",
+        "background_color": "#FFDEAD",
+        "text_color": "#6B8E23"
+    },
+    {
+        "text": "经济性##使用成本##服务费用##配件费用",
+        "suffix_key": "",
+        "background_color": "#A0522D",
+        "text_color": "#7FFFD4"
+    },
+    {
+        "text": "经济性##使用成本##服务费用##其他售后服务费用",
+        "suffix_key": "",
+        "background_color": "#A9A9A9",
+        "text_color": "#87CEEB"
+    },
+    {
+        "text": "经济性##使用成本##服务费用##维修费用",
+        "suffix_key": "",
+        "background_color": "#556B2F",
+        "text_color": "#A9A9A9"
+    },
+    {
+        "text": "经济性##使用成本##使用成本##保险",
+        "suffix_key": "",
+        "background_color": "#778899",
+        "text_color": "#7FFFD4"
+    },
+    {
+        "text": "经济性##使用成本##使用成本##充电费用",
+        "suffix_key": "",
+        "background_color": "#00CED1",
+        "text_color": "#87CEFA"
+    },
+    {
+        "text": "经济性##使用成本##使用成本##配件价格",
+        "suffix_key": "",
+        "background_color": "#DC143C",
+        "text_color": "#FFD700"
+    },
+    {
+        "text": "经济性##使用成本##使用成本##使用成本整体评价",
+        "suffix_key": "",
+        "background_color": "#8FBC8F",
+        "text_color": "#000000"
+    },
+    {
+        "text": "品牌##品牌##品牌类别##品牌创新",
+        "suffix_key": "",
+        "background_color": "#40E0D0",
+        "text_color": "#FFF8DC"
+    },
+    {
+        "text": "品牌##品牌##品牌类别##品牌档次",
+        "suffix_key": "",
+        "background_color": "#FF7F50",
+        "text_color": "#DAA520"
+    },
+    {
+        "text": "品牌##品牌##品牌类别##品牌定位",
+        "suffix_key": "",
+        "background_color": "#A9A9A9",
+        "text_color": "#BC8F8F"
+    },
+    {
+        "text": "品牌##品牌##品牌类别##品牌国别",
+        "suffix_key": "",
+        "background_color": "#696969",
+        "text_color": "#708090"
+    },
+    {
+        "text": "品牌##品牌##品牌类别##品牌口碑",
+        "suffix_key": "",
+        "background_color": "#A9A9A9",
+        "text_color": "#9370DB"
+    },
+    {
+        "text": "品牌##品牌##品牌类别##品牌历史",
+        "suffix_key": "",
+        "background_color": "#808080",
+        "text_color": "#FFE4C4"
+    },
+    {
+        "text": "品牌##品牌##品牌类别##品牌文化",
+        "suffix_key": "",
+        "background_color": "#4B0082",
+        "text_color": "#87CEFA"
+    },
+    {
+        "text": "品牌##品牌##品牌类别##品牌责任",
+        "suffix_key": "",
+        "background_color": "#87CEEB",
+        "text_color": "#DA70D6"
+    },
+    {
+        "text": "品牌##品牌##品牌类别##品牌质量",
+        "suffix_key": "",
+        "background_color": "#B0C4DE",
+        "text_color": "#D3D3D3"
+    },
+    {
+        "text": "品牌##品牌##品牌总体##品牌总体评价",
+        "suffix_key": "",
+        "background_color": "#DDA0DD",
+        "text_color": "#FF6347"
+    },
+    {
+        "text": "品牌##品牌##品牌总体##其他品牌评价",
+        "suffix_key": "",
+        "background_color": "#5F9EA0",
+        "text_color": "#BDB76B"
+    },
+    {
+        "text": "产品##动力##充电便利性##充电便利性整体评价",
+        "suffix_key": "",
+        "background_color": "#8A2BE2",
+        "text_color": "#DC143C"
+    },
+    {
+        "text": "产品##动力##充电便利性##充电电压",
+        "suffix_key": "",
+        "background_color": "#CD5C5C",
+        "text_color": "#DEB887"
+    },
+    {
+        "text": "产品##动力##充电便利性##充电功率",
+        "suffix_key": "",
+        "background_color": "#FA8072",
+        "text_color": "#FFFF00"
+    },
+    {
+        "text": "产品##动力##充电便利性##充电接口",
+        "suffix_key": "",
+        "background_color": "#48D1CC",
+        "text_color": "#FFDAB9"
+    },
+    {
+        "text": "产品##动力##充电便利性##充电时长",
+        "suffix_key": "",
+        "background_color": "#483D8B",
+        "text_color": "#8B4513"
+    },
+    {
+        "text": "产品##动力##充电便利性##充电桩",
+        "suffix_key": "",
+        "background_color": "#FDF5E6",
+        "text_color": "#0000FF"
+    },
+    {
+        "text": "产品##动力##充电便利性##电能回收",
+        "suffix_key": "",
+        "background_color": "#DAA520",
+        "text_color": "#FFFF00"
+    },
+    {
+        "text": "产品##动力##充电便利性##快充",
+        "suffix_key": "",
+        "background_color": "#7FFF00",
+        "text_color": "#98FB98"
+    },
+    {
+        "text": "产品##动力##充电便利性##慢充",
+        "suffix_key": "",
+        "background_color": "#CD853F",
+        "text_color": "#483D8B"
+    },
+    {
+        "text": "产品##动力##充电便利性##免费充电",
+        "suffix_key": "",
+        "background_color": "#708090",
+        "text_color": "#F0F8FF"
+    },
+    {
+        "text": "产品##动力##充电便利性##预约充电",
+        "suffix_key": "",
+        "background_color": "#3CB371",
+        "text_color": "#FF7F50"
+    },
+    {
+        "text": "产品##动力##充电便利性##智能充电",
+        "suffix_key": "",
+        "background_color": "#40E0D0",
+        "text_color": "#FFFAFA"
+    },
+    {
+        "text": "产品##动力##充电模式##公共充电",
+        "suffix_key": "",
+        "background_color": "#006400",
+        "text_color": "#4682B4"
+    },
+    {
+        "text": "产品##动力##充电模式##换电站",
+        "suffix_key": "",
+        "background_color": "#FA8072",
+        "text_color": "#F0FFF0"
+    },
+    {
+        "text": "产品##动力##充电模式##家庭充电",
+        "suffix_key": "",
+        "background_color": "#E9967A",
+        "text_color": "#D8BFD8"
+    },
+    {
+        "text": "产品##动力##充电模式##移动充电",
+        "suffix_key": "",
+        "background_color": "#00FF00",
+        "text_color": "#191970"
+    },
+    {
+        "text": "产品##动力##电池##刀片电池",
+        "suffix_key": "",
+        "background_color": "#FF1493",
+        "text_color": "#6495ED"
+    },
+    {
+        "text": "产品##动力##电池##电池安全性",
+        "suffix_key": "",
+        "background_color": "#000080",
+        "text_color": "#DDA0DD"
+    },
+    {
+        "text": "产品##动力##电池##电池冷却系统",
+        "suffix_key": "",
+        "background_color": "#FFF0F5",
+        "text_color": "#F0FFF0"
+    },
+    {
+        "text": "产品##动力##电池##电池能量密度",
+        "suffix_key": "",
+        "background_color": "#808080",
+        "text_color": "#4682B4"
+    },
+    {
+        "text": "产品##动力##电池##电池容量",
+        "suffix_key": "",
+        "background_color": "#F5F5DC",
+        "text_color": "#696969"
+    },
+    {
+        "text": "产品##动力##电池##电池寿命",
+        "suffix_key": "",
+        "background_color": "#808080",
+        "text_color": "#F8F8FF"
+    },
+    {
+        "text": "产品##动力##电池##电池整体评价",
+        "suffix_key": "",
+        "background_color": "#00FF00",
+        "text_color": "#B22222"
+    },
+    {
+        "text": "产品##动力##电池##固态电池",
+        "suffix_key": "",
+        "background_color": "#FFE4C4",
+        "text_color": "#CD853F"
+    },
+    {
+        "text": "产品##动力##电池##磷酸铁锂电池",
+        "suffix_key": "",
+        "background_color": "#FFEFD5",
+        "text_color": "#40E0D0"
+    },
+    {
+        "text": "产品##动力##电池##三元锂电池",
+        "suffix_key": "",
+        "background_color": "#87CEEB",
+        "text_color": "#BC8F8F"
+    },
+    {
+        "text": "产品##动力##电池##四元锂电池",
+        "suffix_key": "",
+        "background_color": "#000080",
+        "text_color": "#663399"
+    },
+    {
+        "text": "产品##动力##电池##外接家用电",
+        "suffix_key": "",
+        "background_color": "#FFDAB9",
+        "text_color": "#F08080"
+    },
+    {
+        "text": "产品##动力##电耗##不同驾驶模式下电耗",
+        "suffix_key": "",
+        "background_color": "#FFFFF0",
+        "text_color": "#B8860B"
+    },
+    {
+        "text": "产品##动力##电耗##不同路况下电耗",
+        "suffix_key": "",
+        "background_color": "#F4A460",
+        "text_color": "#FFEBCD"
+    },
+    {
+        "text": "产品##动力##电耗##电耗整体评价",
+        "suffix_key": "",
+        "background_color": "#6A5ACD",
+        "text_color": "#D2691E"
+    },
+    {
+        "text": "产品##动力##电耗##空调状态下电耗",
+        "suffix_key": "",
+        "background_color": "#87CEEB",
+        "text_color": "#6495ED"
+    },
+    {
+        "text": "产品##动力##电耗##其他因素下电耗",
+        "suffix_key": "",
+        "background_color": "#7FFF00",
+        "text_color": "#9932CC"
+    },
+    {
+        "text": "产品##动力##动力类型##纯电",
+        "suffix_key": "",
+        "background_color": "#8B008B",
+        "text_color": "#CD853F"
+    },
+    {
+        "text": "产品##动力##动力类型##动力类型整体评价",
+        "suffix_key": "",
+        "background_color": "#4682B4",
+        "text_color": "#F5DEB3"
+    },
+    {
+        "text": "产品##动力##动力类型##混动",
+        "suffix_key": "",
+        "background_color": "#A52A2A",
+        "text_color": "#006400"
+    },
+    {
+        "text": "产品##动力##动力类型##增程式",
+        "suffix_key": "",
+        "background_color": "#98FB98",
+        "text_color": "#20B2AA"
+    },
+    {
+        "text": "产品##动力##续航##CLTC（理论）续航",
+        "suffix_key": "",
+        "background_color": "#C0C0C0",
+        "text_color": "#008B8B"
+    },
+    {
+        "text": "产品##动力##续航##NEDC续航",
+        "suffix_key": "",
+        "background_color": "#3CB371",
+        "text_color": "#FFEBCD"
+    },
+    {
+        "text": "产品##动力##续航##季节续航衰减",
+        "suffix_key": "",
+        "background_color": "#00FA9A",
+        "text_color": "#FFDEAD"
+    },
+    {
+        "text": "产品##动力##续航##理论续航",
+        "suffix_key": "",
+        "background_color": "#FF0000",
+        "text_color": "#B0E0E6"
+    },
+    {
+        "text": "产品##动力##续航##续驶里程",
+        "suffix_key": "",
+        "background_color": "#F4A460",
+        "text_color": "#DAA520"
+    },
+    {
+        "text": "产品##配置##电机##电动机舱",
+        "suffix_key": "",
+        "background_color": "#BC8F8F",
+        "text_color": "#DA70D6"
+    },
+    {
+        "text": "产品##配置##电机##电动机类型",
+        "suffix_key": "",
+        "background_color": "#6B8E23",
+        "text_color": "#663399"
+    },
+    {
+        "text": "产品##配置##电机##电动机系统综合功率",
+        "suffix_key": "",
+        "background_color": "#9370DB",
+        "text_color": "#FFFFF0"
+    },
+    {
+        "text": "产品##配置##电机##电动机整体评价",
+        "suffix_key": "",
+        "background_color": "#D2B48C",
+        "text_color": "#B0C4DE"
+    },
+    {
+        "text": "产品##配置##电机##电动机总功率",
+        "suffix_key": "",
+        "background_color": "#FDF5E6",
+        "text_color": "#6B8E23"
+    },
+    {
+        "text": "产品##配置##电机##电动机总扭矩",
+        "suffix_key": "",
+        "background_color": "#48D1CC",
+        "text_color": "#F0E68C"
+    },
+    {
+        "text": "产品##配置##电机##电机输出功率",
+        "suffix_key": "",
+        "background_color": "#FFDEAD",
+        "text_color": "#DA70D6"
+    },
+    {
+        "text": "产品##配置##电机##电驱平台",
+        "suffix_key": "",
+        "background_color": "#66CDAA",
+        "text_color": "#7FFFD4"
+    },
+    {
+        "text": "产品##配置##显示屏##分屏显示",
+        "suffix_key": "",
+        "background_color": "#F5DEB3",
+        "text_color": "#FFFAFA"
+    },
+    {
+        "text": "产品##智能化##OTA##APP应用商店",
+        "suffix_key": "",
+        "background_color": "#FFF5EE",
+        "text_color": "#F08080"
+    },
+    {
+        "text": "产品##智能化##OTA##软件升级",
+        "suffix_key": "",
+        "background_color": "#FFF0F5",
+        "text_color": "#9400D3"
+    },
+    {
+        "text": "产品##智能化##辅助停车##自动泊车入位",
+        "suffix_key": "",
+        "background_color": "#FFE4E1",
+        "text_color": "#00008B"
+    },
+    {
+        "text": "产品##智能化##辅助停车##自动停车",
+        "suffix_key": "",
+        "background_color": "#00FF00",
+        "text_color": "#FF6347"
+    },
+    {
+        "text": "产品##智能化##辅助停车##自动驻车",
+        "suffix_key": "",
+        "background_color": "#696969",
+        "text_color": "#9400D3"
+    },
+    {
+        "text": "产品##智能化##远程车控##NFC钥匙",
+        "suffix_key": "",
+        "background_color": "#9370DB",
+        "text_color": "#FF0000"
+    },
+    {
+        "text": "产品##智能化##远程车控##触屏控制",
+        "suffix_key": "",
+        "background_color": "#D2B48C",
+        "text_color": "#483D8B"
+    },
+    {
+        "text": "产品##智能化##远程车控##面部识别",
+        "suffix_key": "",
+        "background_color": "#CD5C5C",
+        "text_color": "#6A5ACD"
+    },
+    {
+        "text": "产品##智能化##远程车控##手机远程控制",
+        "suffix_key": "",
+        "background_color": "#ADD8E6",
+        "text_color": "#000080"
+    },
+    {
+        "text": "产品##智能化##远程车控##无钥匙进入系统",
+        "suffix_key": "",
+        "background_color": "#D3D3D3",
+        "text_color": "#708090"
+    },
+    {
+        "text": "产品##智能化##远程车控##无钥匙启动系统",
+        "suffix_key": "",
+        "background_color": "#7CFC00",
+        "text_color": "#BC8F8F"
+    },
+    {
+        "text": "产品##智能化##远程车控##远程控制空调",
+        "suffix_key": "",
+        "background_color": "#5F9EA0",
+        "text_color": "#4B0082"
+    },
+    {
+        "text": "产品##智能化##智能导航##GPS联网导航",
+        "suffix_key": "",
+        "background_color": "#B0E0E6",
+        "text_color": "#800000"
+    },
+    {
+        "text": "产品##智能化##智能导航##车速提醒",
+        "suffix_key": "",
+        "background_color": "#FFF8DC",
+        "text_color": "#696969"
+    },
+    {
+        "text": "产品##智能化##智能导航##导航路况信息显示",
+        "suffix_key": "",
+        "background_color": "#FF6347",
+        "text_color": "#B0E0E6"
+    },
+    {
+        "text": "产品##智能化##智能导航##地图时效性",
+        "suffix_key": "",
+        "background_color": "#808080",
+        "text_color": "#FFFAFA"
+    },
+    {
+        "text": "产品##智能化##智能导航##智能路径规划",
+        "suffix_key": "",
+        "background_color": "#F8F8FF",
+        "text_color": "#00FF00"
+    },
+    {
+        "text": "产品##智能化##智能化服务##PM2.5过滤装置",
+        "suffix_key": "",
+        "background_color": "#FAFAD2",
+        "text_color": "#F5F5F5"
+    },
+    {
+        "text": "产品##智能化##智能化服务##表情识别",
+        "suffix_key": "",
+        "background_color": "#ADD8E6",
+        "text_color": "#A52A2A"
+    },
+    {
+        "text": "产品##智能化##智能化服务##病毒防范功能",
+        "suffix_key": "",
+        "background_color": "#008B8B",
+        "text_color": "#A9A9A9"
+    },
+    {
+        "text": "产品##智能化##智能化服务##车内空气净化",
+        "suffix_key": "",
+        "background_color": "#556B2F",
+        "text_color": "#FF00FF"
+    },
+    {
+        "text": "产品##智能化##智能化服务##沉浸式体验",
+        "suffix_key": "",
+        "background_color": "#FF7F50",
+        "text_color": "#708090"
+    },
+    {
+        "text": "产品##智能化##智能化服务##动能回收系统",
+        "suffix_key": "",
+        "background_color": "#800080",
+        "text_color": "#00CED1"
+    },
+    {
+        "text": "产品##智能化##智能化服务##多媒体系统整体评价",
+        "suffix_key": "",
+        "background_color": "#FFFFF0",
+        "text_color": "#6495ED"
+    },
+    {
+        "text": "产品##智能化##智能化服务##全息投影",
+        "suffix_key": "",
+        "background_color": "#7B68EE",
+        "text_color": "#00FF7F"
+    },
+    {
+        "text": "产品##智能化##智能化服务##语音助手",
+        "suffix_key": "",
+        "background_color": "#FFA500",
+        "text_color": "#1E90FF"
+    },
+    {
+        "text": "产品##智能化##智能化服务##智能化服务整体评价",
+        "suffix_key": "",
+        "background_color": "#808080",
+        "text_color": "#FFFFE0"
+    },
+    {
+        "text": "产品##智能化##智能化服务##智能家居/硬件互联",
+        "suffix_key": "",
+        "background_color": "#AFEEEE",
+        "text_color": "#AFEEEE"
+    },
+    {
+        "text": "产品##智能化##智能化服务##主动推送",
+        "suffix_key": "",
+        "background_color": "#48D1CC",
+        "text_color": "#191970"
+    },
+    {
+        "text": "产品##智能化##智能化设备##AR+HUD显示",
+        "suffix_key": "",
+        "background_color": "#FFFAFA",
+        "text_color": "#B8860B"
+    },
+    {
+        "text": "产品##智能化##智能化设备##HUD抬头数字显示",
+        "suffix_key": "",
+        "background_color": "#FFEFD5",
+        "text_color": "#FAFAD2"
+    },
+    {
+        "text": "产品##智能化##智能化设备##车内摄像头",
+        "suffix_key": "",
+        "background_color": "#DDA0DD",
+        "text_color": "#DC143C"
+    },
+    {
+        "text": "产品##智能化##智能化设备##车外摄像头",
+        "suffix_key": "",
+        "background_color": "#EE82EE",
+        "text_color": "#FFF0F5"
+    },
+    {
+        "text": "产品##智能化##智能化设备##车载主机",
+        "suffix_key": "",
+        "background_color": "#7B68EE",
+        "text_color": "#EE82EE"
+    },
+    {
+        "text": "产品##智能化##智能化设备##多屏互动",
+        "suffix_key": "",
+        "background_color": "#FFA500",
+        "text_color": "#FFE4E1"
+    },
+    {
+        "text": "产品##智能化##智能化设备##后排液晶屏幕",
+        "suffix_key": "",
+        "background_color": "#FFDAB9",
+        "text_color": "#FFFFFF"
+    },
+    {
+        "text": "产品##智能化##智能化设备##全景摄像头",
+        "suffix_key": "",
+        "background_color": "#B22222",
+        "text_color": "#228B22"
+    },
+    {
+        "text": "产品##智能化##智能化设备##胎压监测装置",
+        "suffix_key": "",
+        "background_color": "#FFFAF0",
+        "text_color": "#F4A460"
+    },
+    {
+        "text": "产品##智能化##智能化设备##显示屏黑屏/重启",
+        "suffix_key": "",
+        "background_color": "#FFFFF0",
+        "text_color": "#FFA500"
+    },
+    {
+        "text": "产品##智能化##智能化设备##行车电脑",
+        "suffix_key": "",
+        "background_color": "#FFFF00",
+        "text_color": "#00FF7F"
+    },
+    {
+        "text": "产品##智能化##智能化设备##智能车机系统",
+        "suffix_key": "",
+        "background_color": "#DA70D6",
+        "text_color": "#4682B4"
+    },
+    {
+        "text": "产品##智能化##智能化设备##智能化设备整体评价",
+        "suffix_key": "",
+        "background_color": "#556B2F",
+        "text_color": "#696969"
+    },
+    {
+        "text": "产品##智能化##智能化设备##智能座舱",
+        "suffix_key": "",
+        "background_color": "#AFEEEE",
+        "text_color": "#CD853F"
+    },
+    {
+        "text": "产品##智能化##自动（辅助）驾驶##雷达数量",
+        "suffix_key": "",
+        "background_color": "#FFE4C4",
+        "text_color": "#00CED1"
+    },
+    {
+        "text": "产品##智能化##自动（辅助）驾驶##摄像头数量",
+        "suffix_key": "",
+        "background_color": "#808080",
+        "text_color": "#FF4500"
+    },
+    {
+        "text": "产品##智能化##自动（辅助）驾驶##芯片算力",
+        "suffix_key": "",
+        "background_color": "#F8F8FF",
+        "text_color": "#FFFF00"
+    },
+    {
+        "text": "产品##智能化##自动（辅助）驾驶##自动驾驶级别",
+        "suffix_key": "",
+        "background_color": "#696969",
+        "text_color": "#E6E6FA"
+    },
+    {
+        "text": "产品##智能化##自动（辅助）驾驶##自动驾驶系统",
+        "suffix_key": "",
+        "background_color": "#D8BFD8",
+        "text_color": "#20B2AA"
+    },
+    {
+        "text": "产品##智能化##自动（辅助）驾驶##自动驾驶芯片",
+        "suffix_key": "",
+        "background_color": "#B8860B",
+        "text_color": "#6495ED"
+    },
+    {
+        "text": "经济性##购车成本##价格政策##购置税补贴",
+        "suffix_key": "",
+        "background_color": "#FAFAD2",
+        "text_color": "#FF8C00"
+    },
+    {
+        "text": "经济性##购车成本##价格政策##新能源厂家补贴",
+        "suffix_key": "",
+        "background_color": "#F0FFFF",
+        "text_color": "#F5F5F5"
+    },
+    {
+        "text": "经济性##购车成本##价格政策##新能源地补",
+        "suffix_key": "",
+        "background_color": "#DEB887",
+        "text_color": "#FA8072"
+    },
+    {
+        "text": "经济性##购车成本##价格政策##新能源国补",
+        "suffix_key": "",
+        "background_color": "#FFFACD",
+        "text_color": "#FFD700"
+    },
+    {
+        "text": "经济性##购车成本##价格政策##新能源整体补贴",
+        "suffix_key": "",
+        "background_color": "#708090",
+        "text_color": "#FFFF00"
+    },
+    {
+        "text": "用车##购买因素##价格##购车预算",
+        "suffix_key": "",
+        "background_color": "#87CEEB",
+        "text_color": "#D3D3D3"
+    },
+    {
+        "text": "用车##购买因素##价格##性价比",
+        "suffix_key": "",
+        "background_color": "#7B68EE",
+        "text_color": "#4B0082"
+    },
+    {
+        "text": "用车##购买因素##性能##动力",
+        "suffix_key": "",
+        "background_color": "#7CFC00",
+        "text_color": "#9400D3"
+    },
+    {
+        "text": "用车##购买因素##性能##安全性",
+        "suffix_key": "",
+        "background_color": "#FAF0E6",
+        "text_color": "#1E90FF"
+    },
+    {
+        "text": "用车##购买因素##性能##油耗",
+        "suffix_key": "",
+        "background_color": "#66CDAA",
+        "text_color": "#A52A2A"
+    },
+    {
+        "text": "用车##购买因素##外观##设计风格",
+        "suffix_key": "",
+        "background_color": "#7B68EE",
+        "text_color": "#4682B4"
+    },
+    {
+        "text": "用车##购买因素##外观##颜色",
+        "suffix_key": "",
+        "background_color": "#FFEFD5",
+        "text_color": "#483D8B"
+    },
+    {
+        "text": "用车##购买因素##内饰##舒适性",
+        "suffix_key": "",
+        "background_color": "#FF00FF",
+        "text_color": "#4682B4"
+    },
+    {
+        "text": "用车##购买因素##内饰##空间",
+        "suffix_key": "",
+        "background_color": "#7FFF00",
+        "text_color": "#9400D3"
+    },
+    {
+        "text": "用车##购买因素##内饰##配置",
+        "suffix_key": "",
+        "background_color": "#2E8B57",
+        "text_color": "#48D1CC"
+    },
+    {
+        "text": "用车##购买因素##服务##售后服务",
+        "suffix_key": "",
+        "background_color": "#FF8C00",
+        "text_color": "#7FFFD4"
+    },
+    {
+        "text": "用车##购买因素##服务##保养",
+        "suffix_key": "",
+        "background_color": "#00FFFF",
+        "text_color": "#FFFF00"
+    },
+    {
+        "text": "用车##购买因素##品牌##品牌知名度",
+        "suffix_key": "",
+        "background_color": "#4169E1",
+        "text_color": "#FF4500"
+    },
+    {
+        "text": "用车##购买因素##品牌##口碑",
+        "suffix_key": "",
+        "background_color": "#556B2F",
+        "text_color": "#8B008B"
+    },
+    {
+        "text": "用车##购买动机##置换##更新换代",
+        "suffix_key": "",
+        "background_color": "#800080",
+        "text_color": "#8B008B"
+    },
+    {
+        "text": "用车##购买动机##置换##淘汰旧车",
+        "suffix_key": "",
+        "background_color": "#F0FFF0",
+        "text_color": "#663399"
+    },
+    {
+        "text": "用车##购买动机##出行##日常代步",
+        "suffix_key": "",
+        "background_color": "#FFFAF0",
+        "text_color": "#CD5C5C"
+    },
+    {
+        "text": "用车##购买动机##出行##旅行",
+        "suffix_key": "",
+        "background_color": "#8B0000",
+        "text_color": "#8FBC8F"
+    },
+    {
+        "text": "用车##购买动机##需求##工作需求",
+        "suffix_key": "",
+        "background_color": "#FFFAFA",
+        "text_color": "#FFF5EE"
+    },
+    {
+        "text": "用车##购买动机##需求##家庭需求",
+        "suffix_key": "",
+        "background_color": "#A9A9A9",
+        "text_color": "#2E8B57"
+    },
+    {
+        "text": "用车##购买动机##家庭出行##多人出行",
+        "suffix_key": "",
+        "background_color": "#DC143C",
+        "text_color": "#483D8B"
+    },
+    {
+        "text": "用车##购买动机##家庭出行##家庭旅行",
+        "suffix_key": "",
+        "background_color": "#FF6347",
+        "text_color": "#008000"
+    },
+    {
+        "text": "用车##购买动机##商务用车##接待客户",
+        "suffix_key": "",
+        "background_color": "#696969",
+        "text_color": "#FFDAB9"
+    },
+    {
+        "text": "用车##购买动机##商务用车##商务接送",
+        "suffix_key": "",
+        "background_color": "#3CB371",
+        "text_color": "#483D8B"
+    },
+    {
+        "text": "用车##购买动机##驾驶乐趣##操控感",
+        "suffix_key": "",
+        "background_color": "#B0E0E6",
+        "text_color": "#FF00FF"
+    },
+    {
+        "text": "用车##购买动机##驾驶乐趣##加速体验",
+        "suffix_key": "",
+        "background_color": "#7CFC00",
+        "text_color": "#7CFC00"
+    },
+    {
+        "text": "用车##用车场景##网约车##兼职运行",
+        "suffix_key": "",
+        "background_color": "#FF6347",
+        "text_color": "#00FF7F"
+    },
+    {
+        "text": "用车##用车场景##网约车##全职司机",
+        "suffix_key": "",
+        "background_color": "#ADFF2F",
+        "text_color": "#DB7093"
+    },
+    {
+        "text": "用车##用车场景##自驾游##长途旅行",
+        "suffix_key": "",
+        "background_color": "#DA70D6",
+        "text_color": "#FFD700"
+    },
+    {
+        "text": "用车##用车场景##自驾游##周边游",
+        "suffix_key": "",
+        "background_color": "#FAF0E6",
+        "text_color": "#98FB98"
+    },
+    {
+        "text": "用车##用车场景##上下班##通勤",
+        "suffix_key": "",
+        "background_color": "#800080",
+        "text_color": "#3CB371"
+    },
+    {
+        "text": "用车##用车场景##上下班##代步",
+        "suffix_key": "",
+        "background_color": "#F08080",
+        "text_color": "#808080"
+    },
+    {
+        "text": "用车##用车场景##接送小孩##学校接送",
+        "suffix_key": "",
+        "background_color": "#708090",
+        "text_color": "#FFF0F5"
+    },
+    {
+        "text": "用车##用车场景##接送小孩##课外活动",
+        "suffix_key": "",
+        "background_color": "#778899",
+        "text_color": "#FFFACD"
+    },
+    {
+        "text": "用车##用车场景##社交交友##聚会出行",
+        "suffix_key": "",
+        "background_color": "#87CEEB",
+        "text_color": "#C0C0C0"
+    },
+    {
+        "text": "用车##用车场景##社交交友##社交场合",
+        "suffix_key": "",
+        "background_color": "#A0522D",
+        "text_color": "#663399"
+    },
+    {
+        "text": "用车##用车场景##身份象征##彰显地位",
+        "suffix_key": "",
+        "background_color": "#8A2BE2",
+        "text_color": "#228B22"
+    },
+    {
+        "text": "用车##用车场景##身份象征##展现品味",
+        "suffix_key": "",
+        "background_color": "#DDA0DD",
+        "text_color": "#DCDCDC"
+    }
+]
